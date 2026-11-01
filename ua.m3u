@@ -1,5 +1,5 @@
 #EXTM3U url-tvg="http://iptvx.one/epg/epg.xml.gz"
-#EXTINF:-1,🛠Ревизия №-1 🚦01.11.2026|10-55|kinofilm.m3u|👍iptv.org.ua|tva.org.ua|tva.in.ua|fas-tv.com|mater.com.ua💰
+#EXTINF:-1,🛠Ревизия №-2 🚦01.11.2026|11-55|👍iptv.org.ua|tva.org.ua|tva.in.ua|fas-tv.com|mater.com.ua💰
 http://cdn10.live-tv.od.ua:8081/leonovtv/test-abr/playlist.m3u8
 
 #EXTINF:-1,ПЕРШИЙ HD
@@ -28,8 +28,6 @@ https://filmtvgroup.hopto.org:8080/NovosilkiTB/index.m3u8?token=eyJ0eXAiOiJKV1Qi
 https://live20.bozztv.com/giatv/giatv-88882com/88882com/chunks.m3u8
 #EXTINF:-1,Epic Drama HD
 http://195.189.60.253/118/index.m3u8
-#EXTINF:-1,Film UA Drama
-http://88.99.215.227/FilmUADrama/index.m3u8
 #EXTINF:-1,КIНО HD
 https://stitch-ua9.fastad.pro/stream.m3u8?c=553&dt=2&is_kids=false&o=aHR0cHM6Ly9obHMzMC5zd2VldC50di9zdHJlYW0vM3E1bmg0czR1eTc1dXo4cDk4Ymltd25idWlwdGFkOHZmdjl4Z3l1dWlhdXVtNDRwaXpzemY1amFhYnl4M2JpZDM3amo2Z216dnB6bnczanRxeHFiNXI5a2p5c2V4YzVlOTR4MnczdWtpaHc2MnNpN2FuZ2d0ZGd0anV1ZXlnbjZneDhzM21mbXNoOG14ejNyZDhzN2dmOGRnemcycjh6dXh2MmlqNDc2NTg0cWZyMnhkc2NjcXB6Z3c3cTczMm5iY3hucHk0YT0%3D&p=1&session=14500789079728221346&u=4658946636260375128&variant=2
 #EXTINF:-1,MEGAHIT HD

@@ -1,5 +1,5 @@
 #EXTM3U url-tvg="http://iptvx.one/epg/epg.xml.gz"
-#EXTINF:-1,🛠Ревизия №-1 🚦01.11.2026|10-55|kinofilm.m3u|👍iptv.org.ua|tva.org.ua|tva.in.ua|fas-tv.com|mater.com.ua💰
+#EXTINF:-1,🛠Ревизия №-2 🚦01.11.2026|11-55|👍iptv.org.ua|tva.org.ua|tva.in.ua|fas-tv.com|mater.com.ua💰
 http://cdn10.live-tv.od.ua:8081/leonovtv/test-abr/playlist.m3u8
 
 
@@ -387,8 +387,6 @@ https://ottiptvfilmtvgroup.zapto.org:8080/FILMTVKinozal/index.m3u8?token=eyJ0eXA
 https://filmtvgroup.hopto.org:8080/NovosilkiTB/index.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3ODg2ODMzNjIsImV4cCI6MTc4ODc2OTc2Miwic3ViIjoiQWRtaW4ifQ.elQlt9rDrYlfbg85aZPXxIarprRqhdf58qFUNs3wQqs
 #EXTINF:-1 group-title="KINO+📺",Бровари Кіно TV
 https://live20.bozztv.com/giatv/giatv-88882com/88882com/chunks.m3u8
-#EXTINF:-1 group-title="KINO+📺",Film UA Drama
-http://88.99.215.227/FilmUADrama/index.m3u8
 #EXTINF:-1 group-title="KINO+📺",Иллюзион+
 http://185.46.16.239:8000/Illyuzion+
 #EXTINF:-1 group-title="KINO+📺",Иллюзион plus
@@ -507,8 +505,6 @@ http://portal.ott.pink/C5UK_1plus1SD/index.m3u8?token=2B8378CADCB27AA393170BD7ED
 https://cdn15.live-tv.cloud/ua_infinitas_tv/ntn-abr/playlist.m3u8
 #EXTINF:-1 group-title="Україна 🇺🇦",Epic Drama HD
 http://195.189.60.253/118/index.m3u8
-#EXTINF:-1 group-title="Україна 🇺🇦",Film UA Drama
-http://88.99.215.227/FilmUADrama/index.m3u8
 #EXTINF:-1 group-title="Україна 🇺🇦",ЗАКОН ТВ+
 http://195.189.60.253/zakon_tv_hd/video.m3u8
 #EXTINF:-1 group-title="Україна 🇺🇦",МАСОН ТВ
