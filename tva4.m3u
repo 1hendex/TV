@@ -1,5 +1,5 @@
 #EXTM3U url-tvg="http://iptvx.one/epg/epg.xml.gz"
-#EXTINF:-1,🛠Ревизия №-1 🚦02.11.2026|06-55|👍iptv.org.ua|tva.org.ua|tva.in.ua|fas-tv.com|mater.com.ua💰
+#EXTINF:-1,🛠Ревизия №-1 🚦04.11.2026|07-05|👍iptv.org.ua|tva.org.ua|tva.in.ua|fas-tv.com|mater.com.ua💰
 http://cdn10.live-tv.od.ua:8081/leonovtv/test-abr/playlist.m3u8
 
 
@@ -2219,3 +2219,81 @@ https://fs.uplink.kz/mma/mono.m3u8?token=onlinetv2
 https://fs.uplink.kz/extreme_sports/mono.m3u8?token=onlinetv2
 #EXTINF:-1 group-title="Uplink (VPN)",Qazsport HD
 https://fs.uplink.kz/qazsport_hd/mono.m3u8?token=onlinetv2
+
+
+#EXTINF:-1 group-title="ТЕСТ-04-11",vijuTV1000
+http://85.117.37.43/vijuTV1000/index.m3u8
+#EXTINF:-1 group-title="ТЕСТ-04-11",amedia1
+http://85.117.61.84/amedia1/index.m3u8
+#EXTINF:-1 group-title="ТЕСТ-04-11",amedia2
+http://85.117.61.84/amedia2/index.m3u8
+#EXTINF:-1 group-title="ТЕСТ-04-11",black
+http://85.117.61.84/black/index.m3u8
+#EXTINF:-1 group-title="ТЕСТ-04-11",red
+http://85.117.37.43/red/index.m3u8
+#EXTINF:-1 group-title="ТЕСТ-04-11",cinema
+http://85.117.61.84/cinema/index.m3u8
+#EXTINF:-1 group-title="ТЕСТ-04-11",mirseriala
+http://85.117.61.84/mirseriala/index.m3u8
+#EXTINF:-1 group-title="ТЕСТ-04-11",Золотая коллекция
+http://85.117.61.84/mosfilm/index.m3u8
+#EXTINF:-1 group-title="ТЕСТ-04-11",oxotaribalka
+http://85.117.61.84/oxotaribalka/index.m3u8
+#EXTINF:-1 group-title="ТЕСТ-04-11",karusel
+http://85.117.37.43/karusel/index.m3u8
+#EXTINF:-1 group-title="ТЕСТ-04-11",piatnica
+http://85.117.61.84/piatnica/index.m3u8
+#EXTINF:-1 group-title="ТЕСТ-04-11",planeta
+http://85.117.61.84/planeta/index.m3u8
+#EXTINF:-1 group-title="ТЕСТ-04-11",Romanantika
+http://85.117.61.84/rusroman/index.m3u8
+#EXTINF:-1 group-title="ТЕСТ-04-11",tv21
+http://85.117.61.84/tv21/index.m3u8
+#EXTINF:-1 group-title="ТЕСТ-04-11",KHL
+http://85.117.61.84/khl/index.m3u8
+#EXTINF:-1 group-title="ТЕСТ-04-11",setanta2 🇬🇪
+http://85.117.61.84/setanta2/index.m3u8
+#EXTINF:-1 group-title="ТЕСТ-04-11",setanta3
+http://85.117.61.84/setanta3/index.m3u8
+#EXTINF:-1 group-title="ТЕСТ-04-11",sts
+http://85.117.61.84/sts/index.m3u8
+#EXTINF:-1 group-title="ТЕСТ-04-11",tiji
+http://85.117.61.84/tiji/index.m3u8
+#EXTINF:-1 group-title="ТЕСТ-04-11",mult
+http://85.117.61.84/mult/index.m3u8
+#EXTINF:-1 group-title="ТЕСТ-04-11",Зоопарк
+http://85.117.61.84/zoo/index.m3u8
+#EXTINF:-1 group-title="ТЕСТ-04-11",cnn EN
+http://85.117.37.43/cnn/index.m3u8
+#EXTINF:-1 group-title="ТЕСТ-04-11",dw EN
+http://85.117.37.43/dw/index.m3u8
+#EXTINF:-1 group-title="ТЕСТ-04-11",Euronews EN
+http://85.117.37.43/Euronews/index.m3u8
+#EXTINF:-1 group-title="ТЕСТ-04-11",eurosport1 EN
+http://85.117.37.43/eurosport1/index.m3u8
+#EXTINF:-1 group-title="ТЕСТ-04-11",france24
+http://85.117.37.43/france24/index.m3u8
+#EXTINF:-1 group-title="ТЕСТ-04-11",imedi GEO
+http://85.117.37.43/imedi/index.m3u8
+#EXTINF:-1 group-title="ТЕСТ-04-11",rustavi2 GEO
+http://85.117.37.43/rustavi2/index.m3u8
+#EXTINF:-1 group-title="ТЕСТ-04-11",vijuhistory
+http://85.117.37.43/vijuhistory/index.m3u8
+#EXTINF:-1 group-title="ТЕСТ-04-11",vijunature
+http://85.117.37.43/vijunature/index.m3u8
+#EXTINF:-1 group-title="ТЕСТ-04-11",tvpirveli
+http://85.117.37.43/tvpirveli/index.m3u8
+#EXTINF:-1 group-title="ТЕСТ-04-11",postv GEO
+http://85.117.37.43/postv/index.m3u8
+#EXTINF:-1 group-title="ТЕСТ-04-11",tv25 🇬🇪
+http://85.117.61.84/tv25/index.m3u8
+#EXTINF:-1 group-title="ТЕСТ-04-11",silkuniversal 🇬🇪
+http://85.117.61.84/silkuniversal/index.m3u8
+#EXTINF:-1 group-title="ТЕСТ-04-11",gds 🇬🇪
+http://85.117.61.84/gds/index.m3u8
+#EXTINF:-1 group-title="ТЕСТ-04-11",fashion
+http://85.117.61.84/fashion/index.m3u8
+#EXTINF:-1 group-title="ТЕСТ-04-11",arirang
+http://85.117.61.84/arirang/index.m3u8
+#EXTINF:-1 group-title="ТЕСТ-04-11",bbc
+http://85.117.61.84/bbc/index.m3u8

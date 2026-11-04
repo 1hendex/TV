@@ -1,5 +1,5 @@
 #EXTM3U url-tvg="http://iptvx.one/epg/epg.xml.gz"
-#EXTINF:-1,🛠Ревизия №-1 🚦02.11.2026|06-55|👍iptv.org.ua|tva.org.ua|tva.in.ua|fas-tv.com|mater.com.ua💰
+#EXTINF:-1,🛠Ревизия №-1 🚦04.11.2026|07-05|👍iptv.org.ua|tva.org.ua|tva.in.ua|fas-tv.com|mater.com.ua💰
 http://cdn10.live-tv.od.ua:8081/leonovtv/test-abr/playlist.m3u8
 
 
@@ -1189,95 +1189,25 @@ https://fs.uplink.kz/sts_love/mono.m3u8?token=onlinetv2
 https://fs.uplink.kz/u/mono.m3u8?token=onlinetv2
 #EXTINF:-1 group-title="Uplink (VPN)",Время
 https://fs.uplink.kz/vremya/mono.m3u8?token=onlinetv2
-#EXTINF:-1 group-title="Uplink (VPN)",КВН ТВ
-https://fs.uplink.kz/kvn_tv/mono.m3u8?token=onlinetv2
-#EXTINF:-1 group-title="Uplink (VPN)",Телекафе
-https://fs.uplink.kz/telecafe/mono.m3u8?token=onlinetv2
-#EXTINF:-1 group-title="Uplink (VPN)",Точка отрыва
-https://fs.uplink.kz/tochka_otriva/mono.m3u8?token=onlinetv2
-#EXTINF:-1 group-title="Uplink (VPN)",Жара
-https://fs.uplink.kz/zhara/mono.m3u8?token=onlinetv2
-#EXTINF:-1 group-title="Uplink (VPN)",Живи
-https://fs.uplink.kz/zhivi/mono.m3u8?token=onlinetv2
-#EXTINF:-1 group-title="Uplink (VPN)",Моя планета
-https://fs.uplink.kz/moya_planeta/mono.m3u8?token=onlinetv2
-#EXTINF:-1 group-title="Uplink (VPN)",Viasat Explore
-https://fs.uplink.kz/viju_explore/mono.m3u8?token=onlinetv2
-#EXTINF:-1 group-title="Uplink (VPN)",Viasat History
-https://fs.uplink.kz/viju_history/mono.m3u8?token=onlinetv2
-#EXTINF:-1 group-title="Uplink (VPN)",Viasat Nature
-https://fs.uplink.kz/viju_nature/mono.m3u8?token=onlinetv2
-#EXTINF:-1 group-title="Uplink (VPN)",National Geographic
-https://fs.uplink.kz/nat_geo/mono.m3u8?token=onlinetv2
-#EXTINF:-1 group-title="Uplink (VPN)",Nat Geo Wild
-https://fs.uplink.kz/nat_geo_wild/mono.m3u8?token=onlinetv2
-#EXTINF:-1 group-title="Uplink (VPN)",Big planet
-https://fs.uplink.kz/big_planet/mono.m3u8?token=onlinetv2
-#EXTINF:-1 group-title="Uplink (VPN)",Поехали!
-https://fs.uplink.kz/poehali/mono.m3u8?token=onlinetv2
-#EXTINF:-1 group-title="Uplink (VPN)",Авто 24
-https://fs.uplink.kz/avto24/mono.m3u8?token=onlinetv2
-#EXTINF:-1 group-title="Uplink (VPN)",Зоопарк
-https://fs.uplink.kz/zoopark/mono.m3u8?token=onlinetv2
-#EXTINF:-1 group-title="Uplink (VPN)",Astana TV
-https://fs.uplink.kz/astana/mono.m3u8?token=onlinetv2
-#EXTINF:-1 group-title="Uplink (VPN)",КТК
-https://fs.uplink.kz/ktk/mono.m3u8?token=onlinetv2
-#EXTINF:-1 group-title="Uplink (VPN)",НТК
-https://fs.uplink.kz/ntk/mono.m3u8?token=onlinetv2
-#EXTINF:-1 group-title="Uplink (VPN)",Atameken Business
-https://fs.uplink.kz/atameken/mono.m3u8?token=onlinetv2
-#EXTINF:-1 group-title="Uplink (VPN)",24 KZ
-https://fs.uplink.kz/24KZ/mono.m3u8?token=onlinetv2
-#EXTINF:-1 group-title="Uplink (VPN)",7 канал (Казахстан)
-https://fs.uplink.kz/7_kanal/mono.m3u8?token=onlinetv2
-#EXTINF:-1 group-title="Uplink (VPN)",Abai TV
-https://fs.uplink.kz/abai_tv/mono.m3u8?token=onlinetv2
-#EXTINF:-1 group-title="Uplink (VPN)",Almaty TV
-https://fs.uplink.kz/almaty/mono.m3u8?token=onlinetv2
-#EXTINF:-1 group-title="Uplink (VPN)",Habar
-https://fs.uplink.kz/habar/mono.m3u8?token=onlinetv2
-#EXTINF:-1 group-title="Uplink (VPN)",Qazaqstan KZ
-https://fs.uplink.kz/qazaqstan/mono.m3u8?token=onlinetv2
-#EXTINF:-1 group-title="Uplink (VPN)",Turan TV
-https://fs.uplink.kz/turan_tv/mono.m3u8?token=onlinetv2
-#EXTINF:-1 group-title="Uplink (VPN)",Balapan
-https://fs.uplink.kz/balapan/mono.m3u8?token=onlinetv2
-#EXTINF:-1 group-title="Uplink (VPN)",Европа плюс ТВ
-https://fs.uplink.kz/europa_plus/mono.m3u8?token=onlinetv2
-#EXTINF:-1 group-title="Uplink (VPN)",В гостях у сказки
-https://fs.uplink.kz/v_gostyah_u_skazki/mono.m3u8?token=onlinetv2
-#EXTINF:-1 group-title="Uplink (VPN)",Baby time
-https://fs.uplink.kz/baby_time/mono.m3u8?token=onlinetv2
-#EXTINF:-1 group-title="Uplink (VPN)",Лапки Live
-https://fs.uplink.kz/lapki_live/mono.m3u8?token=onlinetv2
-#EXTINF:-1 group-title="Uplink (VPN)",СТС Kids
-https://fs.uplink.kz/sts_kids/mono.m3u8?token=onlinetv2
-#EXTINF:-1 group-title="Uplink (VPN)",Da Vinci
-https://fs.uplink.kz/da_vinci/mono.m3u8?token=onlinetv2
-#EXTINF:-1 group-title="Uplink (VPN)",Карусель
-https://fs.uplink.kz/karusel/mono.m3u8?token=onlinetv2
-#EXTINF:-1 group-title="Uplink (VPN)",О!
-https://fs.uplink.kz/o/mono.m3u8?token=onlinetv2
-#EXTINF:-1 group-title="Uplink (VPN)",Бобёр
-https://fs.uplink.kz/bober/mono.m3u8?token=onlinetv2
-#EXTINF:-1 group-title="Uplink (VPN)",Мульт
-https://fs.uplink.kz/mult/mono.m3u8?token=onlinetv2
-#EXTINF:-1 group-title="Uplink (VPN)",Мультиландия
-https://fs.uplink.kz/multilandia/mono.m3u8?token=onlinetv2
-#EXTINF:-1 group-title="Uplink (VPN)",KHL Prime
-https://fs.uplink.kz/khl_prime/mono.m3u8?token=onlinetv2
-#EXTINF:-1 group-title="Uplink (VPN)",KHL
-https://fs.uplink.kz/telekanal_khl/mono.m3u8?token=onlinetv2
-#EXTINF:-1 group-title="Uplink (VPN)",Матч ТВ
-https://fs.uplink.kz/match/mono.m3u8?token=onlinetv2
-#EXTINF:-1 group-title="Uplink (VPN)",Матч! Планета
-https://fs.uplink.kz/match_planeta/mono.m3u8?token=onlinetv2
-#EXTINF:-1 group-title="Uplink (VPN)",Viasat Sports
-https://fs.uplink.kz/viju_sport/mono.m3u8?token=onlinetv2
-#EXTINF:-1 group-title="Uplink (VPN)",MMA-TV
-https://fs.uplink.kz/mma/mono.m3u8?token=onlinetv2
-#EXTINF:-1 group-title="Uplink (VPN)",Etreme sports
-https://fs.uplink.kz/extreme_sports/mono.m3u8?token=onlinetv2
-#EXTINF:-1 group-title="Uplink (VPN)",Qazsport HD
-https://fs.uplink.kz/qazsport_hd/mono.m3u8?token=onlinetv2
+
+
+#EXTINF:-1 group-title="ТЕСТ-04-11",vijuTV1000
+http://85.117.37.43/vijuTV1000/index.m3u8
+#EXTINF:-1 group-title="ТЕСТ-04-11",amedia1
+http://85.117.61.84/amedia1/index.m3u8
+#EXTINF:-1 group-title="ТЕСТ-04-11",amedia2
+http://85.117.61.84/amedia2/index.m3u8
+#EXTINF:-1 group-title="ТЕСТ-04-11",black
+http://85.117.61.84/black/index.m3u8
+#EXTINF:-1 group-title="ТЕСТ-04-11",red
+http://85.117.37.43/red/index.m3u8
+#EXTINF:-1 group-title="ТЕСТ-04-11",cinema
+http://85.117.61.84/cinema/index.m3u8
+#EXTINF:-1 group-title="ТЕСТ-04-11",mirseriala
+http://85.117.61.84/mirseriala/index.m3u8
+#EXTINF:-1 group-title="ТЕСТ-04-11",Золотая коллекция
+http://85.117.61.84/mosfilm/index.m3u8
+#EXTINF:-1 group-title="ТЕСТ-04-11",Romanantika
+http://85.117.61.84/rusroman/index.m3u8
+#EXTINF:-1 group-title="ТЕСТ-04-11",tv21
+http://85.117.61.84/tv21/index.m3u8
