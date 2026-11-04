@@ -1,5 +1,5 @@
 #EXTM3U url-tvg="http://iptvx.one/epg/epg.xml.gz"
-#EXTINF:-1,🛠Ревизия №-1 🚦02.11.2026|06-55|👍iptv.org.ua|tva.org.ua|tva.in.ua|fas-tv.com|mater.com.ua💰
+#EXTINF:-1,🛠Ревизия №-1 🚦04.11.2026|06-55|👍iptv.org.ua|tva.org.ua|tva.in.ua|fas-tv.com|mater.com.ua💰
 http://cdn10.live-tv.od.ua:8081/leonovtv/test-abr/playlist.m3u8
 
 #EXTINF:-1 group-title="SPORT 🏆",Divi Sport
@@ -388,3 +388,12 @@ http://193.33.39.108:9008/play/a01d
 http://193.33.39.108:9000/play/a04d
 #EXTINF:-1 group-title="SPORT 🏆",DIGI Sport 2 HD RO
 http://193.33.39.108:9000/play/a04e
+
+#EXTINF:-1 group-title="ТЕСТ-04-11",KHL
+http://85.117.61.84/khl/index.m3u8
+#EXTINF:-1 group-title="ТЕСТ-04-11",setanta2 🇬🇪
+http://85.117.61.84/setanta2/index.m3u8
+#EXTINF:-1 group-title="ТЕСТ-04-11",setanta3
+http://85.117.61.84/setanta3/index.m3u8
+#EXTINF:-1 group-title="ТЕСТ-04-11",eurosport1 EN
+http://85.117.37.43/eurosport1/index.m3u8
