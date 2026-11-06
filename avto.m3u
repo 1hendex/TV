@@ -1,5 +1,5 @@
 #EXTM3U url-tvg="http://iptvx.one/epg/epg.xml.gz"
-#EXTINF:-1,🛠Ревизия №-1 🚦30.10.2026|05-30|tva|👍iptv.org.ua|tva.org.ua|tva.in.ua|fas-tv.com|mater.com.ua💰
+#EXTINF:-1,🛠Ревизия №-1 🚦06.11.2026|07-55|👍iptv.org.ua|tva.org.ua|tva.in.ua|fas-tv.com|mater.com.ua💰
 http://cdn10.live-tv.od.ua:8081/leonovtv/test-abr/playlist.m3u8
 
 #EXTINF:-1 group-title="Каналы с VPN", Discovery Channel HD
@@ -386,8 +386,6 @@ https://ottiptvfilmtvgroup.zapto.org:8080/FILMTVKinozal/index.m3u8?token=eyJ0eXA
 https://filmtvgroup.hopto.org:8080/NovosilkiTB/index.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3ODg2ODMzNjIsImV4cCI6MTc4ODc2OTc2Miwic3ViIjoiQWRtaW4ifQ.elQlt9rDrYlfbg85aZPXxIarprRqhdf58qFUNs3wQqs
 #EXTINF:-1 group-title="KINO+📺",Бровари Кіно TV
 https://live20.bozztv.com/giatv/giatv-88882com/88882com/chunks.m3u8
-#EXTINF:-1 group-title="KINO+📺",Film UA Drama
-http://88.99.215.227/FilmUADrama/index.m3u8
 #EXTINF:-1 group-title="KINO+📺",Иллюзион+
 http://185.46.16.239:8000/Illyuzion+
 #EXTINF:-1 group-title="KINO+📺",Иллюзион plus
@@ -506,8 +504,6 @@ http://portal.ott.pink/C5UK_1plus1SD/index.m3u8?token=2B8378CADCB27AA393170BD7ED
 https://cdn15.live-tv.cloud/ua_infinitas_tv/ntn-abr/playlist.m3u8
 #EXTINF:-1 group-title="Україна 🇺🇦",Epic Drama HD
 http://195.189.60.253/118/index.m3u8
-#EXTINF:-1 group-title="Україна 🇺🇦",Film UA Drama
-http://88.99.215.227/FilmUADrama/index.m3u8
 #EXTINF:-1 group-title="Україна 🇺🇦",ЗАКОН ТВ+
 http://195.189.60.253/zakon_tv_hd/video.m3u8
 #EXTINF:-1 group-title="Україна 🇺🇦",МАСОН ТВ
@@ -1687,82 +1683,68 @@ http://91.246.72.88:8000/play/a01w/index.m3u8
 
 #EXTINF:-1 group-title="♥18+", Кино 18+
 https://autopilot.catcast.tv/content/40381/index.m3u8
-#EXTINF:-1 group-title="♥18+",DORCEL HD
-http://142.132.200.37:9000/DORCELTVHD
-#EXTINF:-1 group-title="♥18+",Brazzers
-http://142.132.200.37:9000/Brazzers
-#EXTINF:-1 group-title="♥18+",passion
-http://142.132.200.37:9000/passion
-#EXTINF:-1 group-title="♥18+",BARELY LEGAL
-http://142.132.200.37:9000/BARELYLEGAL
-#EXTINF:-1 group-title="♥18+",EROX HD
-http://142.132.200.37:9000/EROXHD
-#EXTINF:-1 group-title="♥18+",EROXXX HD
-http://142.132.200.37:9000/EROXXXHD
-#EXTINF:-1 group-title="♥18+",DORCEL HD
-http://142.132.200.37:9000/DORCELTVHD
-#EXTINF:-1 group-title="♥18+",Brazzers
-http://142.132.200.37:9000/Brazzers
-#EXTINF:-1 group-title="♥18+",passion
-http://142.132.200.37:9000/passion
-#EXTINF:-1 group-title="♥18+",BARELY LEGAL
-http://142.132.200.37:9000/BARELYLEGAL
-#EXTINF:-1 group-title="♥18+",EROX HD
-http://142.132.200.37:9000/EROXHD
-#EXTINF:-1 group-title="♥18+",EROXXX HD
-http://142.132.200.37:9000/EROXXXHD
-#EXTINF:-1 group-title="♥18+",Brazzers
-http://88.212.15.17/live/test_brazzers_hd_hevc/playlist.m3u8
-#EXTINF:-1 group-title="♥18+",Dorcel TV
-http://88.212.15.17/live/test_dorcel_hd_hevc/playlist.m3u8
-#EXTINF:-1 group-title="♥18+",Desire
-http://88.212.15.17/live/test_desire_hd_hevc/playlist.m3u8
-#EXTINF:-1 group-title="♥18+",Extasy 4K
-http://88.212.15.17/live/test_extasy_hd_hevc/playlist.m3u8
-#EXTINF:-1 group-title="♥18+",Eroxxx
-http://88.212.15.17/live/test_eroxxx_hd_hevc/playlist.m3u8
-#EXTINF:-1 group-title="♥18+",Erox
-http://88.212.15.17/live/test_erox_hd_hevc/playlist.m3u8
-#EXTINF:-1 group-title="♥18+",Babes TV
-http://88.212.15.17/live/test_basbes_hd_hevc/playlist.m3u8
-#EXTINF:-1 group-title="♥18+",Reality Kings
-http://88.212.15.17/live/test_realitykings_sd_hevc/playlist.m3u8
-#EXTINF:-1 group-title="♥18+",Leo TV
-http://88.212.15.17/live/test_leo_hd_hevc/playlist.m3u8
-#EXTINF:-1 group-title="♥18+",True_amateurs
-http://88.212.15.17/live/true_amateurs_atk/index.m3u8
-#EXTINF:-1 group-title="♥18+",Babes
-http://88.212.15.17/live/pure_babes_atk/index.m3u8
-#EXTINF:-1 group-title="♥18+",Bang
-http://88.212.15.17/live/bang_u_atk/index.m3u8
-#EXTINF:-1 group-title="♥18+",Dorcel_xxx
-http://88.212.15.17/live/test_dorcel_xxx_hevc/playlist.m3u8
-#EXTINF:-1 group-title="♥18+",Dusk
-http://88.212.15.17/live/test_dusk_sd_hevc/playlist.m3u8
-#EXTINF:-1 group-title="♥18+",Passion_xxx
-http://88.212.15.17/live/test_passion_xxx/playlist.m3u8
-#EXTINF:-1 group-title="♥18+",Leogold_
-http://88.212.15.17/live/test_leogold_hd_hevc/playlist.m3u8
-#EXTINF:-1 group-title="♥18+",Vixen
-http://88.212.15.17/live/vixen/index.m3u8
-#EXTINF:-1 group-title="♥18+",SEX PRIVE
-http://45.190.28.50/SEX_PRIVE/playlist.m3u8
+#EXTINF:-1 group-title="♥18+",Hustler
+http://193.33.39.108:9009/play/a02a
+#EXTINF:-1 group-title="♥18+",Private TV
+http://193.33.39.108:9009/play/a020
 #EXTINF:-1 group-title="♥18+",Brazzers TV
 http://185.23.80.23:8080/BrazzersTV/index.m3u8
 #EXTINF:-1 group-title="♥18+",Barely Legal
 http://185.23.80.23:8080/BarelyLegal/index.m3u8
 #EXTINF:-1 group-title="♥18+",Blue Hustler
 http://185.23.80.23:8080/BlueHustler/index.m3u8
-#EXTINF:-1 group-title="♥18+",RusskayaNoch
+#EXTINF:-1 group-title="♥18+",Russkaya Noch
 http://185.23.80.23:8080/RusskayaNoch/index.m3u8
+#EXTINF:-1 group-title="♥18+",PassionXXX
+http://151.237.83.99:5500/PassionXXX
+#EXTINF:-1 group-title="♥18+",REDLIGHT HD
+http://92.114.85.87:8012/play/a004/index.m3u8
+#EXTINF:-1 group-title="♥18+",DORCEL HD
+http://142.132.200.37:9000/DORCELTVHD
+#EXTINF:-1 group-title="♥18+",Brazzers
+http://142.132.200.37:9000/Brazzers
+#EXTINF:-1 group-title="♥18+",passion
+http://142.132.200.37:9000/passion
+#EXTINF:-1 group-title="♥18+",BARELY LEGAL
+http://142.132.200.37:9000/BARELYLEGAL
+#EXTINF:-1 group-title="♥18+",EROX HD
+http://142.132.200.37:9000/EROXHD
+#EXTINF:-1 group-title="♥18+",EROXXX HD
+http://142.132.200.37:9000/EROXXXHD
+#EXTINF:-1 group-title="♥18+",PLAYBOY 
+http://91.205.196.7:8000/play/a031
+#EXTINF:-1 group-title="♥18+",EROX
+http://91.205.196.7:8000/play/a032
+#EXTINF:-1 group-title="♥18+",Р ночь 
+http://91.205.196.7:8000/play/a033
+#EXTINF:-1 group-title="♥18+",Exxxotika
+http://91.205.196.7:8000/play/a03m
+#EXTINF:-1 group-title="♥18+",Dorcel_HD
+http://31.148.5.241:80/Dorcel_HD/index.m3u8
 #EXTINF:-1 group-title="♥18+",Babes TV
 http://stream.mcquack.net/55/index.m3u8
+#EXTINF:-1 group-title="♥18+",Redlight HD
+http://stream.mcquack.net/51/index.m3u8
+#EXTINF:-1 group-title="♥18+",Hustler HD Europe
+http://stream.mcquack.net/52/index.m3u8
+#EXTINF:-1 group-title="♥18+",Brazzers TV Europe HD
+http://stream.mcquack.net/53/index.m3u8
+#EXTINF:-1 group-title="♥18+",Frenchlover
+http://stream.mcquack.net/54/index.m3u8
+#EXTINF:-1 group-title="♥18+",WOODMAN
+http://stream.mcquack.net/56/index.m3u8
+#EXTINF:-1 group-title="♥18+",GONZO
+http://stream.mcquack.net/59/index.m3u8
 #EXTINF:-1 group-title="♥18+",Exxxotica
 http://stream.mcquack.net/57/index.m3u8
 #EXTINF:-1 group-title="♥18+",Frenchlover
 http://stream.mcquack.net/54/index.m3u8
 #EXTINF:-1 group-title="♥18+",Erox
 http://stream.mcquack.net/58/index.m3u8
+#EXTINF:-1 group-title="♥18+",Red Lips HD
+http://stream.mcquack.net/61/index.m3u8
+#EXTINF:-1 group-title="♥18+",Penthouse Gold HD
+http://stream.mcquack.net/66/index.m3u8
 #EXTINF:-1 group-title="♥18+",Blue Hustler
 http://stream.mcquack.net/280/index.m3u8
 #EXTINF:-1 group-title="♥18+",Vivid Red
@@ -1775,14 +1757,6 @@ http://stream.mcquack.net/290/index.m3u8
 http://193.239.186.231/BRAZZERS/index.m3u8
 #EXTINF:-1 group-title="♥18+",BRAZZERS
 http://193.239.187.102/BRAZZERS/index.m3u8
-#EXTINF:-1 group-title="♥18+",Red Lips 18+
-http://tinyurl.com/TvZaTak37/Red_Lips/manifest.m3u8
-#EXTINF:-1 group-title="♥18+",Русская ночь 18+
-http://tinyurl.com/TvZaTak37/Russkaya_Noch/manifest.m3u8
-#EXTINF:-1 group-title="♥18+",penthouse1
-http://185.98.209.11:81/penthouse1/index.m3u8?token=test
-#EXTINF:-1 group-title="♥18+",penthous reality tv
-http://185.98.209.11:81/penthouse2/index.m3u8?token=test
 #EXTINF:-1 group-title="♥18+",RK TV
 http://212.102.38.45/live/test_realitykings_sd_hevc/playlist.m3u8
 #EXTINF:-1 group-title="♥18+",Brazzers
@@ -1799,8 +1773,6 @@ http://212.102.38.45/live/test_eroxxx_hd_hevc/playlist.m3u8
 http://212.102.38.45/live/test_erox_hd_hevc/playlist.m3u8
 #EXTINF:-1 group-title="♥18+",Babes TV
 http://212.102.38.45/live/test_basbes_hd_hevc/playlist.m3u8
-#EXTINF:-1 group-title="♥18+",XY MAX
-http://79.124.21.250:8199/play/DiemaSport/index.m3u8
 #EXTINF:-1 group-title="♥18+",Porn Classic
 http://200.194.238.229:8383/live/pornclassic/playlist.m3u8
 
@@ -3907,3 +3879,81 @@ https://fs.uplink.kz/mma/mono.m3u8?token=onlinetv2
 https://fs.uplink.kz/extreme_sports/mono.m3u8?token=onlinetv2
 #EXTINF:-1 group-title="Uplink (VPN)",Qazsport HD
 https://fs.uplink.kz/qazsport_hd/mono.m3u8?token=onlinetv2
+
+
+#EXTINF:-1 group-title="ТЕСТ-04-11",vijuTV1000
+http://85.117.37.43/vijuTV1000/index.m3u8
+#EXTINF:-1 group-title="ТЕСТ-04-11",amedia1
+http://85.117.61.84/amedia1/index.m3u8
+#EXTINF:-1 group-title="ТЕСТ-04-11",amedia2
+http://85.117.61.84/amedia2/index.m3u8
+#EXTINF:-1 group-title="ТЕСТ-04-11",black
+http://85.117.61.84/black/index.m3u8
+#EXTINF:-1 group-title="ТЕСТ-04-11",red
+http://85.117.37.43/red/index.m3u8
+#EXTINF:-1 group-title="ТЕСТ-04-11",cinema
+http://85.117.61.84/cinema/index.m3u8
+#EXTINF:-1 group-title="ТЕСТ-04-11",mirseriala
+http://85.117.61.84/mirseriala/index.m3u8
+#EXTINF:-1 group-title="ТЕСТ-04-11",Золотая коллекция
+http://85.117.61.84/mosfilm/index.m3u8
+#EXTINF:-1 group-title="ТЕСТ-04-11",oxotaribalka
+http://85.117.61.84/oxotaribalka/index.m3u8
+#EXTINF:-1 group-title="ТЕСТ-04-11",karusel
+http://85.117.37.43/karusel/index.m3u8
+#EXTINF:-1 group-title="ТЕСТ-04-11",piatnica
+http://85.117.61.84/piatnica/index.m3u8
+#EXTINF:-1 group-title="ТЕСТ-04-11",planeta
+http://85.117.61.84/planeta/index.m3u8
+#EXTINF:-1 group-title="ТЕСТ-04-11",Romanantika
+http://85.117.61.84/rusroman/index.m3u8
+#EXTINF:-1 group-title="ТЕСТ-04-11",tv21
+http://85.117.61.84/tv21/index.m3u8
+#EXTINF:-1 group-title="ТЕСТ-04-11",KHL
+http://85.117.61.84/khl/index.m3u8
+#EXTINF:-1 group-title="ТЕСТ-04-11",setanta2 🇬🇪
+http://85.117.61.84/setanta2/index.m3u8
+#EXTINF:-1 group-title="ТЕСТ-04-11",setanta3
+http://85.117.61.84/setanta3/index.m3u8
+#EXTINF:-1 group-title="ТЕСТ-04-11",sts
+http://85.117.61.84/sts/index.m3u8
+#EXTINF:-1 group-title="ТЕСТ-04-11",tiji
+http://85.117.61.84/tiji/index.m3u8
+#EXTINF:-1 group-title="ТЕСТ-04-11",mult
+http://85.117.61.84/mult/index.m3u8
+#EXTINF:-1 group-title="ТЕСТ-04-11",Зоопарк
+http://85.117.61.84/zoo/index.m3u8
+#EXTINF:-1 group-title="ТЕСТ-04-11",cnn EN
+http://85.117.37.43/cnn/index.m3u8
+#EXTINF:-1 group-title="ТЕСТ-04-11",dw EN
+http://85.117.37.43/dw/index.m3u8
+#EXTINF:-1 group-title="ТЕСТ-04-11",Euronews EN
+http://85.117.37.43/Euronews/index.m3u8
+#EXTINF:-1 group-title="ТЕСТ-04-11",eurosport1 EN
+http://85.117.37.43/eurosport1/index.m3u8
+#EXTINF:-1 group-title="ТЕСТ-04-11",france24
+http://85.117.37.43/france24/index.m3u8
+#EXTINF:-1 group-title="ТЕСТ-04-11",imedi GEO
+http://85.117.37.43/imedi/index.m3u8
+#EXTINF:-1 group-title="ТЕСТ-04-11",rustavi2 GEO
+http://85.117.37.43/rustavi2/index.m3u8
+#EXTINF:-1 group-title="ТЕСТ-04-11",vijuhistory
+http://85.117.37.43/vijuhistory/index.m3u8
+#EXTINF:-1 group-title="ТЕСТ-04-11",vijunature
+http://85.117.37.43/vijunature/index.m3u8
+#EXTINF:-1 group-title="ТЕСТ-04-11",tvpirveli
+http://85.117.37.43/tvpirveli/index.m3u8
+#EXTINF:-1 group-title="ТЕСТ-04-11",postv GEO
+http://85.117.37.43/postv/index.m3u8
+#EXTINF:-1 group-title="ТЕСТ-04-11",tv25 🇬🇪
+http://85.117.61.84/tv25/index.m3u8
+#EXTINF:-1 group-title="ТЕСТ-04-11",silkuniversal 🇬🇪
+http://85.117.61.84/silkuniversal/index.m3u8
+#EXTINF:-1 group-title="ТЕСТ-04-11",gds 🇬🇪
+http://85.117.61.84/gds/index.m3u8
+#EXTINF:-1 group-title="ТЕСТ-04-11",fashion
+http://85.117.61.84/fashion/index.m3u8
+#EXTINF:-1 group-title="ТЕСТ-04-11",arirang
+http://85.117.61.84/arirang/index.m3u8
+#EXTINF:-1 group-title="ТЕСТ-04-11",bbc
+http://85.117.61.84/bbc/index.m3u8
