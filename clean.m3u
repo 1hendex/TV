@@ -1,4 +1,138 @@
 #EXTM3U url-tvg="http://epg.it999.ru/edem.xml.gz"
+#EXTINF:-1 tvg-name="Amedia 1" group-title="Кино+",Amedia 1
+http://195.64.140.147:10059/59
+#EXTINF:-1 tvg-name="Amedia 2" group-title="Кино+",Amedia 2
+http://195.64.140.147:10060/60
+#EXTINF:-1 tvg-id="amedia_hit_hd" tvg-name="Amedia Hit HD" tvg-logo="http://epg.it999.ru/img/162.png" group-title="Кино+",Amedia Hit HD
+http://stream.mcquack.net/162/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-name="Amedia Premium" group-title="Кино+",Amedia Premium
+http://stream.mcquack.net/151/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-name="Cinema" group-title="Кино+",Cinema
+http://194.152.35.17/cinema/index.m3u8
+#EXTINF:-1 tvg-name="CINEMAN" group-title="Кино+",CINEMAN
+http://stream.mcquack.net/122/index.m3u8
+#EXTINF:-1 tvg-name="CineMan Thriller" group-title="Кино+",CineMan Thriller
+http://stream.mcquack.net/352/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-name="Cineman Катастрофы" group-title="Кино+",Cineman Катастрофы
+http://stream.mcquack.net/471/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-name="Dom Kino" group-title="Кино+",Dom Kino
+http://185.121.1.163:8083/DomKino/index.m3u8
+#EXTINF:-1 tvg-name="FRESH CINEMA" group-title="Кино+",FRESH CINEMA
+http://stream.mcquack.net/423/index.m3u8
+#EXTINF:-1 tvg-name="ITV Cinema" group-title="Кино+",ITV Cinema
+https://iptv.itv.uz/hls/live/t/Yv8TO7PtCQ-DJIbxOr9N_g/e/1799038269/4000/index.m3u8
+#EXTINF:-1 tvg-name="Kino" group-title="Кино+",Kino
+http://91.205.196.7:8000/play/a00z
+#EXTINF:-1 tvg-name="Kino 1" group-title="Кино+",Kino 1
+http://stream.mcquack.net/395/index.m3u8
+#EXTINF:-1 tvg-name="Kino TV" group-title="Кино+",Kino TV
+http://194.152.35.17/kino-tv/index.m3u8
+#EXTINF:-1 tvg-name="KinoKazka" group-title="Кино+",KinoKazka
+http://stream.mcquack.net/167/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-name="KinoLiving HD" group-title="Кино+",KinoLiving HD
+http://stream.mcquack.net/445/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-name="Kinoman" group-title="Кино+",Kinoman
+http://185.121.1.163:8083/Kinoman/index.m3u8
+#EXTINF:-1 tvg-name="Kinomiks" group-title="Кино+",Kinomiks
+http://185.121.1.163:8083/Kinomiks/index.m3u8
+#EXTINF:-1 tvg-name="Kinopremyera" group-title="Кино+",Kinopremyera
+http://185.121.1.163:8083/Kinopremyera/index.m3u8
+#EXTINF:-1 tvg-name="Kinosemya" group-title="Кино+",Kinosemya
+http://185.121.1.163:8083/Kinosemya/index.m3u8
+#EXTINF:-1 tvg-name="Kinowood HD" group-title="Кино+",Kinowood HD
+http://stream.mcquack.net/446/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-name="Mosfilm" group-title="Кино+",Mosfilm
+http://185.121.1.163:8083/Mosfilm/index.m3u8
+#EXTINF:-1 tvg-name="Muzhskoe Kino" group-title="Кино+",Muzhskoe Kino
+http://185.121.1.163:8083/MuzhskoeKino/index.m3u8
+#EXTINF:-1 tvg-name="NST" group-title="Кино+",NST
+http://178.134.1.158:8081/nst/index.m3u8?token=tva.in.ua
+#EXTINF:-1 tvg-name="STAR CINEMA HD" group-title="Кино+",STAR CINEMA HD
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4158
+#EXTINF:-1 tvg-name="TV 1000" group-title="Кино+",TV 1000
+http://185.121.1.163:8083/TV1000/index.m3u8
+#EXTINF:-1 tvg-name="TV 1000 Kino" group-title="Кино+",TV 1000 Kino
+http://185.121.1.163:8083/TV1000RusskoeKino/index.m3u8
+#EXTINF:-1 tvg-name="TV1000" group-title="Кино+",TV1000
+http://46.53.200.153:7777/play/TV_1000/index.m3
+#EXTINF:-1 tvg-name="TV1000 Action" group-title="Кино+",TV1000 Action
+http://46.53.200.153:7777/play/a01h/index.m3u8
+#EXTINF:-1 tvg-name="TV1000 Кино" group-title="Кино+",TV1000 Кино
+http://46.53.200.153:7777/play/a01g/index.m3u8
+#EXTINF:-1 tvg-name="TvBoom-ViP" group-title="Кино+",TvBoom-ViP
+https://kb.catcast.tv/content/49702/index.m3u8
+#EXTINF:-1 tvg-name="viju Explore" group-title="Кино+",viju Explore
+http://46.53.200.153:7777/play/a01i/index.m3u8
+#EXTINF:-1 tvg-name="viju History" group-title="Кино+",viju History
+http://46.53.200.153:7777/play/a01j/index.m3u8
+#EXTINF:-1 tvg-name="viju Nature" group-title="Кино+",viju Nature
+http://46.53.200.153:7777/play/a01k/index.m3u8
+#EXTINF:-1 tvg-name="VIJU TV 1000 HD" group-title="Кино+",VIJU TV 1000 HD
+http://91.205.196.7:8000/play/a02j
+#EXTINF:-1 tvg-name="viju TV1000 action" group-title="Кино+",viju TV1000 action
+http://178.134.1.158:8081/tv1000action/index.m3u8?token=tva.in.ua
+#EXTINF:-1 tvg-name="Viju TV1000 Romantica HD" group-title="Кино+",Viju TV1000 Romantica HD
+http://46.53.200.153:7777/play/Viju_Drama/index.m3u8
+#EXTINF:-1 tvg-name="VIJU+SPORT" group-title="Кино+",VIJU+SPORT
+http://91.205.196.7:8000/play/a02y
+#EXTINF:-1 tvg-name="VIP Comedy HD" group-title="Кино+",VIP Comedy HD
+http://46.53.200.153:7777/play/Viju_Comedy_HD/index.m3u8
+#EXTINF:-1 tvg-name="VIP Megahit HD" group-title="Кино+",VIP Megahit HD
+http://46.53.200.153:7777/play/Viju_Megahit_HD/index.m3u8
+#EXTINF:-1 tvg-name="VIP Premiere HD" group-title="Кино+",VIP Premiere HD
+http://46.53.200.153:7777/play/Viju_Premiere/index.m3u8
+#EXTINF:-1 tvg-name="VIP Serial HD" group-title="Кино+",VIP Serial HD
+http://46.53.200.153:7777/play/Viju_Serial_HD/index.m3u8
+#EXTINF:-1 tvg-name="Дом Кино" group-title="Кино+",Дом Кино
+http://195.64.140.147:10057/57
+#EXTINF:-1 tvg-name="Домашний" group-title="Кино+",Домашний
+http://195.64.140.147:10018/18
+#EXTINF:-1 tvg-name="Домашний 720x576" group-title="Кино+",Домашний 720x576
+http://31.131.141.195:8000/play/a001/index.m3u8
+#EXTINF:-1 tvg-name="Дорама" group-title="Кино+",Дорама
+http://stream.mcquack.net/412/index.m3u8
+#EXTINF:-1 tvg-name="Дорама HD" group-title="Кино+",Дорама HD
+http://stream.mcquack.net/412/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-name="Золотая коллекция" group-title="Кино+",Золотая коллекция
+http://195.64.140.147:10078/78
+#EXTINF:-1 tvg-name="Кино 1 International" group-title="Кино+",Кино 1 International
+http://kino-1.catcast.tv/content/38617/index.m3u8
+#EXTINF:-1 tvg-name="Кино ТВ" group-title="Кино+",Кино ТВ
+http://stream.mcquack.net/221/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-name="Киномикс" group-title="Кино+",Киномикс
+http://195.64.140.147:10044/44
+#EXTINF:-1 tvg-name="Киномикс HD" group-title="Кино+",Киномикс HD
+http://93.170.254.17/Kinomiks/index.m3u8
+#EXTINF:-1 tvg-name="КИНОПРЕМЬЕРА HD" group-title="Кино+",КИНОПРЕМЬЕРА HD
+http://91.205.196.7:8000/play/a02m
+#EXTINF:-1 tvg-name="КИНОСАТ" group-title="Кино+",КИНОСАТ
+http://5.188.221.43:8080/play/kinosat
+#EXTINF:-1 tvg-name="Киносвидание" group-title="Кино+",Киносвидание
+http://195.64.140.147:10045/45
+#EXTINF:-1 tvg-name="Киносемья" group-title="Кино+",Киносемья
+http://195.64.140.147:10042/42
+#EXTINF:-1 tvg-name="Киносерия" group-title="Кино+",Киносерия
+http://195.64.140.147:10048/48
+#EXTINF:-1 tvg-name="Киноужас" group-title="Кино+",Киноужас
+http://195.64.140.147:10043/43
+#EXTINF:-1 tvg-name="Кинохит" group-title="Кино+",Кинохит
+http://195.64.140.147:10046/46
+#EXTINF:-1 tvg-name="Любимое Кино" group-title="Кино+",Любимое Кино
+http://195.64.140.147:10091/91
+#EXTINF:-1 tvg-name="МУЖСКОЕ КИНО HD" group-title="Кино+",МУЖСКОЕ КИНО HD
+http://91.205.196.7:8000/play/a02n
+#EXTINF:-1 tvg-name="Настоящее Страшное ТВ" group-title="Кино+",Настоящее Страшное ТВ
+http://195.64.140.147:10054/54
+#EXTINF:-1 tvg-name="Наше Новое кино" group-title="Кино+",Наше Новое кино
+http://91.205.196.7:8000/play/a03k
+#EXTINF:-1 tvg-id="ostrosyuzhetnoe_hd" tvg-name="Остросюжетное HD" tvg-logo="http://epg.it999.ru/img/214.png" group-title="Кино+",Остросюжетное HD
+http://stream.mcquack.net/214/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-name="Родное Кино" group-title="Кино+",Родное Кино
+http://195.64.140.147:10052/52
+#EXTINF:-1 tvg-name="Роман" group-title="Кино+",Роман
+http://195.64.140.147:10076/9976
+#EXTINF:-1 tvg-name="Хит HD" group-title="Кино+",Хит HD
+http://stream.mcquack.net/363/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-name=".Black" group-title="Кино",.Black
 http://195.64.140.147:10087/87
 #EXTINF:-1 tvg-name=".Sci-Fi" group-title="Кино",.Sci-Fi
@@ -7,138 +141,34 @@ http://195.64.140.147:10086/86
 http://stream.mcquack.net/388/index.m3u8
 #EXTINF:-1 tvg-name="312Кино" group-title="Кино",312Кино
 http://176.126.166.43:1935/live/312kino/playlist.m3u8
-#EXTINF:-1 tvg-name="Amedia 1" group-title="Кино",Amedia 1
-http://195.64.140.147:10059/59
-#EXTINF:-1 tvg-name="Amedia 2" group-title="Кино",Amedia 2
-http://195.64.140.147:10060/60
-#EXTINF:-1 tvg-name="Amedia Premium" group-title="Кино",Amedia Premium
-http://stream.mcquack.net/151/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-name="Animal Planet HD" group-title="Кино",Animal Planet HD
 http://stream.mcquack.net/114/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-name="Bolt" group-title="Кино",Bolt
 http://stream.mcquack.net/73/index.m3u8
 #EXTINF:-1 tvg-name="Channel 11 (Израиль)" group-title="Кино",Channel 11 (Израиль)
 http://stream.mcquack.net/293/index.m3u8
-#EXTINF:-1 tvg-name="Cinema" group-title="Кино",Cinema
-http://194.152.35.17/cinema/index.m3u8
-#EXTINF:-1 tvg-name="CINEMAN" group-title="Кино",CINEMAN
-http://stream.mcquack.net/122/index.m3u8
-#EXTINF:-1 tvg-name="CineMan Thriller" group-title="Кино",CineMan Thriller
-http://stream.mcquack.net/352/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-name="Cineman Катастрофы" group-title="Кино",Cineman Катастрофы
-http://stream.mcquack.net/471/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-name="detective_lam_hd HD" group-title="Кино",detective_lam_hd HD
-http://88.218.242.237:8001/DetectiveJam_HD
+#EXTINF:-1 tvg-name="Che TV" group-title="Кино",Che TV
+http://194.152.35.17/che/index.m3u8
 #EXTINF:-1 tvg-name="Discovery" group-title="Кино",Discovery
 http://195.64.140.147:10151/151
 #EXTINF:-1 tvg-name="DISCOVERY CHANEL HD" group-title="Кино",DISCOVERY CHANEL HD
 http://91.205.196.7:8000/play/a023
 #EXTINF:-1 tvg-name="Discovery Channel HD" group-title="Кино",Discovery Channel HD
 http://stream.mcquack.net/177/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-name="DiVi Sport" group-title="Кино",DiVi Sport
-http://stream.mcquack.net/457/index.m3u8
-#EXTINF:-1 tvg-name="Eurosport 1 HD" group-title="Кино",Eurosport 1 HD
-http://141.94.193.53:80/Eurosport_1_HD/index.m3u8
-#EXTINF:-1 tvg-id="http://ottiptvfilmtvgroup.zapto.org:8568/epg.xml" tvg-name="FILM TV HD" tvg-logo="http://filmtvgroup.site/uploads/channel/FILMTVHD.png" group-title="Кино",FILM TV HD
-https://ottiptvfilmtvgroup.zapto.org:8080/kino_tv/index.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3ODg2ODMzNjIsImV4cCI6MTc4ODc2OTc2Miwic3ViIjoiQWRtaW4ifQ.elQlt9rDrYlfbg85aZPXxIarprRqhdf58qFUNs3wQqs
 #EXTINF:-1 tvg-id="http://ottiptvfilmtvgroup.zapto.org:8568/epg.xml" tvg-name="FILM TV Кінозал" tvg-logo="http://filmtvgroup.site/uploads/channel/K1.png" group-title="Кино",FILM TV Кінозал
 https://ottiptvfilmtvgroup.zapto.org:8080/FILMTVKinozal/index.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3ODg2ODMzNjIsImV4cCI6MTc4ODc2OTc2Miwic3ViIjoiQWRtaW4ifQ.elQlt9rDrYlfbg85aZPXxIarprRqhdf58qFUNs3wQqs
-#EXTINF:-1 tvg-name="FRESH CINEMA" group-title="Кино",FRESH CINEMA
-http://stream.mcquack.net/423/index.m3u8
 #EXTINF:-1 tvg-name="Gameplay трейлеры" tvg-logo="https://i.postimg.cc/3Jg421y4/1.jpg" group-title="Кино",Gameplay трейлеры
 https://live20.bozztv.com/giatvplayout7/ushba44/index.m3u8
-#EXTINF:-1 tvg-name="Hollywood HD" group-title="Кино",Hollywood HD
-http://stream.mcquack.net/268/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-name="Indiyskoe Kino" group-title="Кино",Indiyskoe Kino
-http://185.121.1.163:8083/IndiyskoeKino/index.m3u8
 #EXTINF:-1 tvg-name="Investigation Discovery" group-title="Кино",Investigation Discovery
 http://195.64.140.147:10152/152
-#EXTINF:-1 tvg-name="ITV Cinema" group-title="Кино",ITV Cinema
-https://iptv.itv.uz/hls/live/t/Yv8TO7PtCQ-DJIbxOr9N_g/e/1799038269/4000/index.m3u8
 #EXTINF:-1 tvg-name="Kentron (Армения)" group-title="Кино",Kentron (Армения)
 http://stream.mcquack.net/39/index.m3u8
-#EXTINF:-1 tvg-name="Kino" group-title="Кино",Kino
-http://91.205.196.7:8000/play/a00z
-#EXTINF:-1 tvg-name="Kino 1" group-title="Кино",Kino 1
-http://stream.mcquack.net/395/index.m3u8
-#EXTINF:-1 tvg-name="Kino TV" group-title="Кино",Kino TV
-http://194.152.35.17/kino-tv/index.m3u8
-#EXTINF:-1 tvg-name="KinoLiving HD" group-title="Кино",KinoLiving HD
-http://stream.mcquack.net/445/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-name="Kinoman" group-title="Кино",Kinoman
-http://185.121.1.163:8083/Kinoman/index.m3u8
-#EXTINF:-1 tvg-name="Kinomiks" group-title="Кино",Kinomiks
-http://185.121.1.163:8083/Kinomiks/index.m3u8
-#EXTINF:-1 tvg-name="Kinopremyera" group-title="Кино",Kinopremyera
-http://185.121.1.163:8083/Kinopremyera/index.m3u8
-#EXTINF:-1 tvg-name="Kinowood HD" group-title="Кино",Kinowood HD
-http://stream.mcquack.net/446/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-name="Maincast Кiберспорт" group-title="Кино",Maincast Кiберспорт
 http://stream.mcquack.net/490/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-name="Muzhskoe Kino" group-title="Кино",Muzhskoe Kino
-http://185.121.1.163:8083/MuzhskoeKino/index.m3u8
-#EXTINF:-1 tvg-name="MyTime movie network Spain HD" group-title="Кино",MyTime movie network Spain HD
-https://appletree-mytimespain-rakuten.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-name="NHL (Интересные моменты)" group-title="Кино",NHL (Интересные моменты)
 https://nhl-firetv.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-name="NST" group-title="Кино",NST
-http://178.134.1.158:8081/nst/index.m3u8?token=tva.in.ua
-#EXTINF:-1 tvg-name="Retrovision Movies" tvg-logo="https://i.postimg.cc/3Jg421y4/1.jpg" group-title="Кино",Retrovision Movies
-https://live20.bozztv.com/giatvplayout7/ushba-rvisionmovies/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="Retrovision Кинопанорама" tvg-logo="https://i.postimg.cc/3Jg421y4/1.jpg" group-title="Кино",Retrovision Кинопанорама
 https://live20.bozztv.com/giatvplayout7/ushba-rvisionkinopanorama/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-name="Scream HD" group-title="Кино",Scream HD
-http://88.218.242.237:8001/Scream_HD
-#EXTINF:-1 tvg-name="Sport 1" group-title="Кино",Sport 1
-http://stream.mcquack.net/391/index.m3u8
-#EXTINF:-1 tvg-name="Sport 1 HD" group-title="Кино",Sport 1 HD
-http://141.94.193.53:80/Sport_1_HD/index.m3u8
-#EXTINF:-1 tvg-name="Sport 5" group-title="Кино",Sport 5
-http://stream.mcquack.net/212/index.m3u8
-#EXTINF:-1 tvg-name="Start Air" group-title="Кино",Start Air
-http://195.64.140.147:10063/63
-#EXTINF:-1 tvg-name="TV 1000" group-title="Кино",TV 1000
-http://185.121.1.163:8083/TV1000/index.m3u8
-#EXTINF:-1 tvg-name="TV 1000 Kino" group-title="Кино",TV 1000 Kino
-http://185.121.1.163:8083/TV1000RusskoeKino/index.m3u8
-#EXTINF:-1 tvg-name="TV XXI" group-title="Кино",TV XXI
-http://46.53.200.153:7777/play/TV-21M/index.m3u8
-#EXTINF:-1 tvg-name="TV1000" group-title="Кино",TV1000
-http://46.53.200.153:7777/play/TV_1000/index.m3
-#EXTINF:-1 tvg-name="TV1000 Action" group-title="Кино",TV1000 Action
-http://46.53.200.153:7777/play/a01h/index.m3u8
-#EXTINF:-1 tvg-name="TV1000 Кино" group-title="Кино",TV1000 Кино
-http://46.53.200.153:7777/play/a01g/index.m3u8
-#EXTINF:-1 tvg-name="TvBoom-ViP" group-title="Кино",TvBoom-ViP
-https://kb.catcast.tv/content/49702/index.m3u8
-#EXTINF:-1 tvg-name="Ultra 4K Extreme" group-title="Кино",Ultra 4K Extreme
-http://46.53.200.153:7777/play/test_krask1/index.m3u8
-#EXTINF:-1 tvg-name="Viasat Explore" group-title="Кино",Viasat Explore
-http://195.64.140.147:10144/144
-#EXTINF:-1 tvg-name="Viasat History" group-title="Кино",Viasat History
-http://195.64.140.147:10145/145
-#EXTINF:-1 tvg-name="Viasat Sport" group-title="Кино",Viasat Sport
-http://46.53.200.153:7777/play/Viasat_Sport/index.m3u8
-#EXTINF:-1 tvg-name="Viasat Sport HD" group-title="Кино",Viasat Sport HD
-http://46.53.200.153:7777/play/a01l/index.m3u8
-#EXTINF:-1 tvg-name="Viasat_Sport" group-title="Кино",Viasat_Sport
-http://31.148.5.241:80/Viasat_Sport/index.m3u8
-#EXTINF:-1 tvg-name="viju Explore" group-title="Кино",viju Explore
-http://46.53.200.153:7777/play/a01i/index.m3u8
-#EXTINF:-1 tvg-name="viju History" group-title="Кино",viju History
-http://46.53.200.153:7777/play/a01j/index.m3u8
-#EXTINF:-1 tvg-name="viju Nature" group-title="Кино",viju Nature
-http://46.53.200.153:7777/play/a01k/index.m3u8
-#EXTINF:-1 tvg-name="VIJU TV 1000 HD" group-title="Кино",VIJU TV 1000 HD
-http://91.205.196.7:8000/play/a02j
-#EXTINF:-1 tvg-name="viju TV1000 action" group-title="Кино",viju TV1000 action
-http://178.134.1.158:8081/tv1000action/index.m3u8?token=tva.in.ua
-#EXTINF:-1 tvg-name="VIJU+SPORT" group-title="Кино",VIJU+SPORT
-http://91.205.196.7:8000/play/a02y
-#EXTINF:-1 tvg-name="VIP Megahit HD" group-title="Кино",VIP Megahit HD
-http://46.53.200.153:7777/play/Viju_Megahit_HD/index.m3u8
-#EXTINF:-1 tvg-name="VIP Premiere HD" group-title="Кино",VIP Premiere HD
-http://46.53.200.153:7777/play/Viju_Premiere/index.m3u8
 #EXTINF:-1 tvg-name="Авто плюс" group-title="Кино",Авто плюс
 http://195.64.140.147:10029/29
 #EXTINF:-1 tvg-name="Аквариум" tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00348.png" group-title="Кино",Аквариум
@@ -165,10 +195,6 @@ http://195.64.140.147:10139/139
 http://iptv.prosto.tv:7000/ch304/video.m3u8
 #EXTINF:-1 tvg-name="ДОЖДЬ" group-title="Кино",ДОЖДЬ
 https://wl.tvrain.tv/transcode/ngrp:ses_all/playlist.m3u8
-#EXTINF:-1 tvg-name="Домашний" group-title="Кино",Домашний
-http://195.64.140.147:10018/18
-#EXTINF:-1 tvg-name="Домашний 720x576" group-title="Кино",Домашний 720x576
-http://31.131.141.195:8000/play/a001/index.m3u8
 #EXTINF:-1 tvg-name="ЕВРОКИНО HD" group-title="Кино",ЕВРОКИНО HD
 http://91.205.196.7:8000/play/a02o
 #EXTINF:-1 tvg-name="Еда" group-title="Кино",Еда
@@ -197,22 +223,6 @@ http://iptv.prosto.tv:7000/ch318/video.m3u8
 http://stream.mcquack.net/157/index.m3u8
 #EXTINF:-1 tvg-name="Катастрофы" tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00295.jpg" group-title="Кино",Катастрофы
 http://iptv.prosto.tv:7000/ch312/video.m3u8
-#EXTINF:-1 tvg-name="Кино 1 International" group-title="Кино",Кино 1 International
-http://kino-1.catcast.tv/content/38617/index.m3u8
-#EXTINF:-1 tvg-name="Кино ТВ" group-title="Кино",Кино ТВ
-http://stream.mcquack.net/221/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-name="Киномикс" group-title="Кино",Киномикс
-http://195.64.140.147:10044/44
-#EXTINF:-1 tvg-name="Киномикс HD" group-title="Кино",Киномикс HD
-http://93.170.254.17/Kinomiks/index.m3u8
-#EXTINF:-1 tvg-name="КИНОПРЕМЬЕРА HD" group-title="Кино",КИНОПРЕМЬЕРА HD
-http://91.205.196.7:8000/play/a02m
-#EXTINF:-1 tvg-name="КИНОСАТ" group-title="Кино",КИНОСАТ
-http://5.188.221.43:8080/play/kinosat
-#EXTINF:-1 tvg-name="Киноужас" group-title="Кино",Киноужас
-http://195.64.140.147:10043/43
-#EXTINF:-1 tvg-name="Кинохит" group-title="Кино",Кинохит
-http://195.64.140.147:10046/46
 #EXTINF:-1 tvg-name="КТК (Казахстан)" group-title="Кино",КТК (Казахстан)
 http://stream.mcquack.net/26/index.m3u8
 #EXTINF:-1 tvg-name="Кулинар ТВ" group-title="Кино",Кулинар ТВ
@@ -269,12 +279,6 @@ https://live20.bozztv.com/giatvplayout7/ushba-m1/tracks-v1a1/mono.m3u8
 http://195.64.140.147:10161/161
 #EXTINF:-1 tvg-name="Моя стихия" group-title="Кино",Моя стихия
 http://stream.mcquack.net/141/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-name="МУЖСКОЕ КИНО HD" group-title="Кино",МУЖСКОЕ КИНО HD
-http://91.205.196.7:8000/play/a02n
-#EXTINF:-1 tvg-name="Настоящее Страшное ТВ" group-title="Кино",Настоящее Страшное ТВ
-http://195.64.140.147:10054/54
-#EXTINF:-1 tvg-name="Наука" group-title="Кино",Наука
-http://178.134.1.158:8081/nauka/index.m3u8?token=tva.in.ua
 #EXTINF:-1 tvg-name="Наш Кинопоказ" group-title="Кино",Наш Кинопоказ
 http://46.53.200.153:7777/play/SRT_Nash_kinopokaz/index.m3u8
 #EXTINF:-1 tvg-id="http://ottiptvfilmtvgroup.zapto.org:8568/epg.xml" tvg-name="Новосілки ТБ" tvg-logo="http://filmtvgroup.site/uploads/channel/novosilkylogo2024best.png" group-title="Кино",Новосілки ТБ
@@ -307,8 +311,6 @@ http://stream.mcquack.net/421/tracks-v1a1/mono.ts.m3u8
 http://stream.mcquack.net/198/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-name="Радіо ArmyFM" group-title="Кино",Радіо ArmyFM
 http://212.26.132.129:8000/ArmyFM
-#EXTINF:-1 tvg-name="Радіо Люкс FM (Львів)" group-title="Кино",Радіо Люкс FM (Львів)
-https://streamvideo.luxnet.ua/luxlviv/luxlviv.stream/playlist.m3u8
 #EXTINF:-1 tvg-name="Река" tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00512.jpg" group-title="Кино",Река
 http://iptv.prosto.tv:7000/ch338/video.m3u8
 #EXTINF:-1 tvg-name="Рыбалка" group-title="Кино",Рыбалка
@@ -317,6 +319,8 @@ http://iptv.prosto.tv:7000/ch344/video.m3u8
 http://iptv.prosto.tv:7000/ch347/video.m3u8
 #EXTINF:-1 tvg-name="Свет вокруг" tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00598.jpg" group-title="Кино",Свет вокруг
 http://iptv.prosto.tv:7000/ch351/video.m3u8
+#EXTINF:-1 tvg-name="Сити Эдем - КиноНовелла" group-title="Кино",Сити Эдем - КиноНовелла
+https://autopilot.catcast.tv/content/46209/index.m3u8
 #EXTINF:-1 tvg-name="Солнце" group-title="Кино",Солнце
 http://195.64.140.147:10027/27
 #EXTINF:-1 tvg-name="Соль" group-title="Кино",Соль
@@ -347,18 +351,12 @@ http://iptv.prosto.tv:7000/ch335/video.m3u8
 http://193.169.80.7:8001/efirhq
 #EXTINF:-1 tvg-name="Флора" tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00536.jpg" group-title="Кино",Флора
 http://iptv.prosto.tv:7000/ch346/video.m3u8
-#EXTINF:-1 tvg-name="Хит HD" group-title="Кино",Хит HD
-http://stream.mcquack.net/363/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-name="ЭКО система" tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00302.png" group-title="Кино",ЭКО система
 http://iptv.prosto.tv:7000/ch316/video.m3u8
 #EXTINF:-1 tvg-name="Ю" group-title="Кино",Ю
 http://195.64.140.147:10021/9921
 #EXTINF:-1 tvg-name="2x2" group-title="Комедии",2x2
 http://stream.mcquack.net/187/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-name="Che TV" group-title="Комедии",Che TV
-http://194.152.35.17/che/index.m3u8
-#EXTINF:-1 tvg-name="VIP Comedy HD" group-title="Комедии",VIP Comedy HD
-http://46.53.200.153:7777/play/Viju_Comedy_HD/index.m3u8
 #EXTINF:-1 tvg-name="Бестселлер" group-title="Комедии",Бестселлер
 http://195.64.140.147:10075/75
 #EXTINF:-1 tvg-name="Мистер Бин" tvg-logo="https://ushba.tv/assets/images/logo-roku1.png" group-title="Комедии",Мистер Бин
@@ -377,62 +375,14 @@ http://195.64.140.147:10140/140
 http://5.188.221.43:8080/play/che
 #EXTINF:-1 tvg-name="Шоу Бенни Хилла" tvg-logo="https://i.postimg.cc/3Jg421y4/1.jpg" group-title="Комедии",Шоу Бенни Хилла
 https://live20.bozztv.com/giatvplayout7/ushba62/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-name="Epic Drama HD" group-title="Романтика и Драма",Epic Drama HD
-http://195.189.60.253/118/index.m3u8
-#EXTINF:-1 tvg-name="Film UA Drama" group-title="Романтика и Драма",Film UA Drama
-http://stream.mcquack.net/273/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-name="FilmUADrama" group-title="Романтика и Драма",FilmUADrama
-http://stream.mcquack.net/273/index.m3u8
-#EXTINF:-1 tvg-name="romance_hd HD" group-title="Романтика и Драма",romance_hd HD
-http://88.218.242.237:8001/Romance_HD
-#EXTINF:-1 tvg-name="STAR CINEMA HD" group-title="Романтика и Драма",STAR CINEMA HD
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=4158
-#EXTINF:-1 tvg-name="Viju TV1000 Romantica HD" group-title="Романтика и Драма",Viju TV1000 Romantica HD
-http://46.53.200.153:7777/play/Viju_Drama/index.m3u8
-#EXTINF:-1 tvg-name="VIP Serial HD" group-title="Романтика и Драма",VIP Serial HD
-http://46.53.200.153:7777/play/Viju_Serial_HD/index.m3u8
-#EXTINF:-1 tvg-name="Дорама" group-title="Романтика и Драма",Дорама
-http://stream.mcquack.net/412/index.m3u8
-#EXTINF:-1 tvg-name="Дорама HD" group-title="Романтика и Драма",Дорама HD
-http://stream.mcquack.net/412/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-name="Киносвидание" group-title="Романтика и Драма",Киносвидание
-http://195.64.140.147:10045/45
-#EXTINF:-1 tvg-name="Киносерия" group-title="Романтика и Драма",Киносерия
-http://195.64.140.147:10048/48
-#EXTINF:-1 tvg-name="Роман" group-title="Романтика и Драма",Роман
-http://195.64.140.147:10076/9976
-#EXTINF:-1 tvg-name="Сити Эдем - КиноНовелла" group-title="Романтика и Драма",Сити Эдем - КиноНовелла
-https://autopilot.catcast.tv/content/46209/index.m3u8
-#EXTINF:-1 tvg-name="Dom Kino" group-title="Мосфильм и Советское кино",Dom Kino
-http://185.121.1.163:8083/DomKino/index.m3u8
-#EXTINF:-1 tvg-name="Mosfilm" group-title="Мосфильм и Советское кино",Mosfilm
-http://185.121.1.163:8083/Mosfilm/index.m3u8
-#EXTINF:-1 tvg-name="Nashe Novoe Kino" group-title="Мосфильм и Советское кино",Nashe Novoe Kino
-http://185.121.1.163:8083/NasheNovoeKino/index.m3u8
-#EXTINF:-1 tvg-name="Дом Кино" group-title="Мосфильм и Советское кино",Дом Кино
-http://195.64.140.147:10057/57
-#EXTINF:-1 tvg-name="Золотая коллекция" group-title="Мосфильм и Советское кино",Золотая коллекция
-http://195.64.140.147:10078/78
-#EXTINF:-1 tvg-name="Любимое Кино" group-title="Мосфильм и Советское кино",Любимое Кино
-http://195.64.140.147:10091/91
-#EXTINF:-1 tvg-name="Наше Новое кино" group-title="Мосфильм и Советское кино",Наше Новое кино
-http://91.205.196.7:8000/play/a03k
-#EXTINF:-1 tvg-name="Родное Кино" group-title="Мосфильм и Советское кино",Родное Кино
-http://195.64.140.147:10052/52
 #EXTINF:-1 tvg-id="http://ottiptvfilmtvgroup.zapto.org:8568/epg.xml" tvg-name="Film TV Kids" tvg-logo="http://filmtvgroup.site/uploads/channel/FILMTVKIDS.png" group-title="Детские",Film TV Kids
 https://ottiptvfilmtvgroup.zapto.org:8080/FilmTVKids/index.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3ODg2ODMzNjIsImV4cCI6MTc4ODc2OTc2Miwic3ViIjoiQWRtaW4ifQ.elQlt9rDrYlfbg85aZPXxIarprRqhdf58qFUNs3wQqs
-#EXTINF:-1 tvg-name="KinoKazka" group-title="Детские",KinoKazka
-http://stream.mcquack.net/167/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-name="Kinosemya" group-title="Детские",Kinosemya
-http://185.121.1.163:8083/Kinosemya/index.m3u8
 #EXTINF:-1 tvg-name="pes-i-ko" group-title="Детские",pes-i-ko
 http://88.218.242.237:8001/pes-i-ko
 #EXTINF:-1 tvg-name="Tiji" group-title="Детские",Tiji
 http://195.64.140.147:10128/128
 #EXTINF:-1 tvg-name="Карусель" group-title="Детские",Карусель
 http://195.64.140.147:10008/998
-#EXTINF:-1 tvg-name="Киносемья" group-title="Детские",Киносемья
-http://195.64.140.147:10042/42
 #EXTINF:-1 tvg-name="Маша и медведь" tvg-logo="https://ushba.tv/assets/images/logo-roku1.png" group-title="Детские",Маша и медведь
 https://lbgo.bozztv.com/07/ushba79/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="Мультиландия" group-title="Детские",Мультиландия
@@ -517,6 +467,8 @@ http://portal.ott.pink/C4UK_MuUkraineHD/index.m3u8?token=B0B73593320445A22451378
 https://stream.ztv.zp.ua/hls/live.m3u8
 #EXTINF:-1 tvg-name="Міледі ТВ" group-title="Украина",Міледі ТВ
 http://stream.mcquack.net/210/index.m3u8
+#EXTINF:-1 tvg-name="Наука" group-title="Украина",Наука
+http://178.134.1.158:8081/nauka/index.m3u8?token=tva.in.ua
 #EXTINF:-1 tvg-name="Наша Тема" group-title="Украина",Наша Тема
 http://195.64.140.147:10172/172
 #EXTINF:-1 tvg-name="НТК" group-title="Украина",НТК
@@ -541,6 +493,8 @@ http://iptv.prosto.tv:7000/ch315/video.m3u8
 http://iptv.prosto.tv:7000/ch303/video.m3u8
 #EXTINF:-1 tvg-name="Рада" group-title="Украина",Рада
 https://api-tv.ipnet.ua/api/v1/manifest/1312714970.m3u8
+#EXTINF:-1 tvg-name="Радіо Люкс FM (Львів)" group-title="Украина",Радіо Люкс FM (Львів)
+https://streamvideo.luxnet.ua/luxlviv/luxlviv.stream/playlist.m3u8
 #EXTINF:-1 tvg-name="СK 1" group-title="Украина",СK 1
 http://cdn10.live-tv.od.ua:8081/sk1zt/sk1zt720p/playlist.m3u8
 #EXTINF:-1 tvg-name="Сварожичи HD" group-title="Украина",Сварожичи HD
@@ -729,12 +683,18 @@ http://stream.mcquack.net/238/index.m3u8
 http://185.177.104.228:8598/Delta-Music_HD(+0)/index.m3u8
 #EXTINF:-1 tvg-name="Delta Travel" tvg-logo="https://mytv.do.am/logo/deltatravel.png" group-title="Инностранные",Delta Travel
 http://185.177.104.228:8597/Delta-Travel_HD(+0)/index.m3u8
+#EXTINF:-1 tvg-name="detective_lam_hd HD" group-title="Инностранные",detective_lam_hd HD
+http://88.218.242.237:8001/DetectiveJam_HD
+#EXTINF:-1 tvg-name="DiVi Sport" group-title="Инностранные",DiVi Sport
+http://stream.mcquack.net/457/index.m3u8
 #EXTINF:-1 tvg-name="DOST TV" group-title="Инностранные",DOST TV
 https://dost.stream.emsal.im/tv/live.m3u8
 #EXTINF:-1 tvg-name="EL TV (260p) [Not 24/7]" group-title="Инностранные",EL TV (260p) [Not 24/7]
 http://85.132.53.162:1935/live/eltv/playlist.m3u8
 #EXTINF:-1 tvg-name="Elektrika TV HD" group-title="Инностранные",Elektrika TV HD
 https://rtmp.elektrika.cz/live/myStream.sdp/playlist.m3u8
+#EXTINF:-1 tvg-name="Epic Drama HD" group-title="Инностранные",Epic Drama HD
+http://195.189.60.253/118/index.m3u8
 #EXTINF:-1 tvg-name="Erz-TV Stollberg (576p)" group-title="Инностранные",Erz-TV Stollberg (576p)
 https://5acade5fc0c29.streamlock.net/kabeljournal/live2020.stream/playlist.m3u8
 #EXTINF:-1 tvg-name="Esperia TV Calabria" group-title="Инностранные",Esperia TV Calabria
@@ -755,6 +715,8 @@ http://live.duhnet.tv/S2/HLS_LIVE/eurodnp/playlist.m3u8
 http://178.33.224.197:1935/euroindiemusic/euroindiemusic/playlist.m3u8
 #EXTINF:-1 tvg-name="Euronews" group-title="Инностранные",Euronews
 http://195.64.140.147:10183/183
+#EXTINF:-1 tvg-name="Eurosport 1 HD" group-title="Инностранные",Eurosport 1 HD
+http://141.94.193.53:80/Eurosport_1_HD/index.m3u8
 #EXTINF:-1 tvg-name="Eurosport 2 HD" group-title="Инностранные",Eurosport 2 HD
 http://141.94.193.53:80/Eurosport_2_HD/index.m3u8
 #EXTINF:-1 tvg-name="Eurosport1 HD" group-title="Инностранные",Eurosport1 HD
@@ -771,6 +733,12 @@ https://eu1.servers10.com:8081/8010/index.m3u8
 http://195.64.140.147:10066/66
 #EXTINF:-1 tvg-name="FAST SPORT HD" group-title="Инностранные",FAST SPORT HD
 http://91.205.196.7:8000/play/a02t
+#EXTINF:-1 tvg-id="http://ottiptvfilmtvgroup.zapto.org:8568/epg.xml" tvg-name="FILM TV HD" tvg-logo="http://filmtvgroup.site/uploads/channel/FILMTVHD.png" group-title="Инностранные",FILM TV HD
+https://ottiptvfilmtvgroup.zapto.org:8080/kino_tv/index.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3ODg2ODMzNjIsImV4cCI6MTc4ODc2OTc2Miwic3ViIjoiQWRtaW4ifQ.elQlt9rDrYlfbg85aZPXxIarprRqhdf58qFUNs3wQqs
+#EXTINF:-1 tvg-name="Film UA Drama" group-title="Инностранные",Film UA Drama
+http://stream.mcquack.net/273/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-name="FilmUADrama" group-title="Инностранные",FilmUADrama
+http://stream.mcquack.net/273/index.m3u8
 #EXTINF:-1 tvg-name="Finest TV" group-title="Инностранные",Finest TV
 http://media.finest.tv/hls/live.m3u8
 #EXTINF:-1 tvg-name="Food Network" group-title="Инностранные",Food Network
@@ -795,6 +763,8 @@ https://streams.radio.co/s14193ab17/listen
 https://tv.mediacp.eu:8081/happyradio/index.m3u8
 #EXTINF:-1 tvg-name="HGTN" group-title="Инностранные",HGTN
 https://v2.catcast.tv/content/34251/index.m3u8
+#EXTINF:-1 tvg-name="Hollywood HD" group-title="Инностранные",Hollywood HD
+http://stream.mcquack.net/268/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-name="Horse and Country" group-title="Инностранные",Horse and Country
 https://hncfree-samsung-uk.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-name="HSE (1080p)" group-title="Инностранные",HSE (1080p)
@@ -807,6 +777,8 @@ https://hse24extra.akamaized.net/hls/live/2006596/hse24extra/playlist.m3u8
 https://hse24trend.akamaized.net/hls/live/2006597/hse24trend/playlist.m3u8
 #EXTINF:-1 tvg-name="Icaro TV Rimini" group-title="Инностранные",Icaro TV Rimini
 https://59d7d6f47d7fc.streamlock.net/icarotv/icarotv/playlist.m3u8
+#EXTINF:-1 tvg-name="Indiyskoe Kino" group-title="Инностранные",Indiyskoe Kino
+http://185.121.1.163:8083/IndiyskoeKino/index.m3u8
 #EXTINF:-1 tvg-name="Insight TV HD" group-title="Инностранные",Insight TV HD
 http://stream.mcquack.net/361/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-name="Italia 2 TV" group-title="Инностранные",Italia 2 TV
@@ -879,6 +851,10 @@ http://89.38.8.130:39435
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=535
 #EXTINF:-1 tvg-name="MULTIMEDIOS COSTA RICA" group-title="Инностранные",MULTIMEDIOS COSTA RICA
 http://mdstrm.com/live-stream-playlist/5a7b1e63a8da282c34d65445.m3u8?ref=http://www.multimedios.com
+#EXTINF:-1 tvg-name="MyTime movie network Spain HD" group-title="Инностранные",MyTime movie network Spain HD
+https://appletree-mytimespain-rakuten.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-name="Nashe Novoe Kino" group-title="Инностранные",Nashe Novoe Kino
+http://185.121.1.163:8083/NasheNovoeKino/index.m3u8
 #EXTINF:-1 tvg-name="Nat Geo Wild HD" group-title="Инностранные",Nat Geo Wild HD
 http://stream.mcquack.net/149/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-name="NAT.GEO.WILD HD" group-title="Инностранные",NAT.GEO.WILD HD
@@ -995,10 +971,14 @@ https://live20.bozztv.com/giatvplayout7/ushba-rvision/tracks-v1a1/mono.m3u8
 https://live20.bozztv.com/giatvplayout7/ushba-rvisionclassic/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="Retrovision Motor" tvg-logo="https://i.postimg.cc/3Jg421y4/1.jpg" group-title="Инностранные",Retrovision Motor
 https://live20.bozztv.com/giatvplayout7/ushba-rvisionmotor/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-name="Retrovision Movies" tvg-logo="https://i.postimg.cc/3Jg421y4/1.jpg" group-title="Инностранные",Retrovision Movies
+https://live20.bozztv.com/giatvplayout7/ushba-rvisionmovies/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="RFH" group-title="Инностранные",RFH
 https://58bd5b7a98e04.streamlock.net/medienasa-live/_definst_/mp4:RFH_high/playlist.m3u8
 #EXTINF:-1 tvg-name="RIMEX TV" group-title="Инностранные",RIMEX TV
 https://transcoder1.bitcare.eu/streaming/rimextv/rmtv.m3u8
+#EXTINF:-1 tvg-name="romance_hd HD" group-title="Инностранные",romance_hd HD
+http://88.218.242.237:8001/Romance_HD
 #EXTINF:-1 tvg-name="Rouge TV 720p" group-title="Инностранные",Rouge TV 720p
 http://event.vedge.infomaniak.com/livecast/event.stream/playlist.m3u8
 #EXTINF:-1 tvg-name="RTG HD" group-title="Инностранные",RTG HD
@@ -1013,16 +993,26 @@ http://50.7.120.34:8080/RTP_1/index.m3u8
 http://50.7.120.34:8080/RTP_3/index.m3u8
 #EXTINF:-1 tvg-name="Russischer Jahrmarkt" group-title="Инностранные",Russischer Jahrmarkt
 https://api.alpaca.t62a.com/hls/9104/stream0.m3u8
+#EXTINF:-1 tvg-name="Scream HD" group-title="Инностранные",Scream HD
+http://88.218.242.237:8001/Scream_HD
 #EXTINF:-1 tvg-name="SIC HD" group-title="Инностранные",SIC HD
 http://50.7.120.34:8080/SIC/index.m3u8
 #EXTINF:-1 tvg-name="Sol Música (720p)" group-title="Инностранные",Sol Música (720p)
 https://d2glyu450vvghm.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-21u4g5cjglv02/sm.m3u8
 #EXTINF:-1 tvg-name="Space Stream" tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00297.png" group-title="Инностранные",Space Stream
 http://iptv.prosto.tv:7000/ch314/video.m3u8
+#EXTINF:-1 tvg-name="Sport 1" group-title="Инностранные",Sport 1
+http://stream.mcquack.net/391/index.m3u8
+#EXTINF:-1 tvg-name="Sport 1 HD" group-title="Инностранные",Sport 1 HD
+http://141.94.193.53:80/Sport_1_HD/index.m3u8
+#EXTINF:-1 tvg-name="Sport 5" group-title="Инностранные",Sport 5
+http://stream.mcquack.net/212/index.m3u8
 #EXTINF:-1 tvg-name="Sports Grid" group-title="Инностранные",Sports Grid
 https://sportsgrid-tribal.amagi.tv/playlist1080p.m3u8
 #EXTINF:-1 tvg-name="STAR TV" group-title="Инностранные",STAR TV
 http://live.azstartv.com/azstar/smil:azstar.smil/playlist.m3u8
+#EXTINF:-1 tvg-name="Start Air" group-title="Инностранные",Start Air
+http://195.64.140.147:10063/63
 #EXTINF:-1 tvg-name="Stingray Classic Rock" group-title="Инностранные",Stingray Classic Rock
 https://lotus.stingray.com/manifest/ose-101ads-montreal/samsungtvplus/master.m3u8
 #EXTINF:-1 tvg-name="Stingray Classica" group-title="Инностранные",Stingray Classica
@@ -1125,6 +1115,8 @@ https://cloudfront44.lexanetwork.com:1344/freerelay/keszthelyivtv.sdp/playlist.m
 http://stream.tvkujawy.pl:8080/live/broadcast.m3u8
 #EXTINF:-1 tvg-name="TV Torun" group-title="Инностранные",TV Torun
 http://217.173.176.107:1935/live/ngrp:tvk.stream_all/master.m3u8
+#EXTINF:-1 tvg-name="TV XXI" group-title="Инностранные",TV XXI
+http://46.53.200.153:7777/play/TV-21M/index.m3u8
 #EXTINF:-1 tvg-name="TV8 (Литва)" group-title="Инностранные",TV8 (Литва)
 http://stream.mcquack.net/374/index.m3u8
 #EXTINF:-1 tvg-name="TVA Vicenza" group-title="Инностранные",TVA Vicenza
@@ -1141,6 +1133,8 @@ http://85.186.146.34:8080
 https://alpha.tv.online.tm/legacyhls/ch004.m3u8
 #EXTINF:-1 tvg-name="UFC Network" group-title="Инностранные",UFC Network
 https://linear-893.frequency.stream/dist/xumo/893/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-name="Ultra 4K Extreme" group-title="Инностранные",Ultra 4K Extreme
+http://46.53.200.153:7777/play/test_krask1/index.m3u8
 #EXTINF:-1 tvg-name="UNBEATEN" group-title="Инностранные",UNBEATEN
 https://unbeaten-tcl.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-name="UR FANATiK TV YEDEK" group-title="Инностранные",UR FANATiK TV YEDEK
@@ -1151,6 +1145,16 @@ http://livestream.usatv.com/hls/m3u8/USARMENIA_NET1080.m3u8
 https://abr.de1se01.v2beat.live/live/live6/chunks.m3u8
 #EXTINF:-1 tvg-name="V2BEAT" group-title="Инностранные",V2BEAT
 https://abr.de1se01.v2beat.live/playlist.m3u8
+#EXTINF:-1 tvg-name="Viasat Explore" group-title="Инностранные",Viasat Explore
+http://195.64.140.147:10144/144
+#EXTINF:-1 tvg-name="Viasat History" group-title="Инностранные",Viasat History
+http://195.64.140.147:10145/145
+#EXTINF:-1 tvg-name="Viasat Sport" group-title="Инностранные",Viasat Sport
+http://46.53.200.153:7777/play/Viasat_Sport/index.m3u8
+#EXTINF:-1 tvg-name="Viasat Sport HD" group-title="Инностранные",Viasat Sport HD
+http://46.53.200.153:7777/play/a01l/index.m3u8
+#EXTINF:-1 tvg-name="Viasat_Sport" group-title="Инностранные",Viasat_Sport
+http://31.148.5.241:80/Viasat_Sport/index.m3u8
 #EXTINF:-1 tvg-name="Vuemme TV" tvg-logo="http://www.vuemmetv.it/wp-content/uploads/2017/12/VUEMME_logotestata.jpg" group-title="Инностранные",Vuemme TV
 http://5db313b643fd8.streamlock.net:1935/HITTV/HITTV/chunklist.m3u8
 #EXTINF:-1 tvg-name="WDR Koeln" group-title="Инностранные",WDR Koeln
