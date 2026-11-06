@@ -95,6 +95,10 @@ http://stream.mcquack.net/412/index.m3u8
 http://stream.mcquack.net/412/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-name="Золотая коллекция" tvg-logo="http://epg.it999.ru/img/294.png" group-title="Кино+",Золотая коллекция
 http://195.64.140.147:10078/78
+#EXTINF:-1 tvg-id="405" tvg-name="Звезда" tvg-logo="http://epg.it999.ru/img/405.png" group-title="Кино+",Звезда
+http://tvzvezda.bonus-tv.ru/cdn/tvzvezda/playlist.m3u8
+#EXTINF:-1 tvg-id="4661" tvg-name="Звезда Плюс" tvg-logo="http://epg.it999.ru/img/4661.png" group-title="Кино+",Звезда Плюс
+http://tvzvezda.bonus-tv.ru/cdn/zvezdaplus/playlist.m3u8
 #EXTINF:-1 tvg-name="Кино 1 International" tvg-logo="http://epg.it999.ru/img/cinema.png" group-title="Кино+",Кино 1 International
 http://kino-1.catcast.tv/content/38617/index.m3u8
 #EXTINF:-1 tvg-name="Кино ТВ" tvg-logo="http://epg.it999.ru/img/cinema.png" group-title="Кино+",Кино ТВ
