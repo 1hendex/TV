@@ -26,7 +26,7 @@ http://91.205.196.7:8000/play/a00z
 #EXTINF:-1 tvg-name="Kino 1" tvg-logo="https://iptvx.one/picons/kino-1.png" group-title="Кино+",Kino 1
 http://stream.mcquack.net/395/index.m3u8
 #EXTINF:-1 tvg-name="Kino TV" tvg-logo="https://raw.githubusercontent.com/Jasmeet181/mediaportal-ru-logos/master/TV/.Light/Kino%20TV.png" group-title="Кино+",Kino TV
-http://194.152.35.17/kino-tv/index.m3u8
+http://185.121.1.163:8083/KinoTV/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="KinoKazka" tvg-logo="https://iptvx.one/picons/kinokazka.png" group-title="Кино+",KinoKazka
 http://stream.mcquack.net/167/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-name="KinoLiving HD" tvg-logo="https://iptvx.one/picons/kinoliving.png" group-title="Кино+",KinoLiving HD
@@ -36,7 +36,7 @@ http://185.121.1.163:8083/Kinoman/index.m3u8
 #EXTINF:-1 tvg-name="Kinomiks" tvg-logo="https://raw.githubusercontent.com/Jasmeet181/mediaportal-ru-logos/master/TV/.Light/Kinomiks.png" group-title="Кино+",Kinomiks
 http://185.121.1.163:8083/Kinomiks/index.m3u8
 #EXTINF:-1 tvg-name="Kinopremyera" tvg-logo="https://raw.githubusercontent.com/Jasmeet181/mediaportal-ru-logos/master/TV/.Light/Kinopremiera.png" group-title="Кино+",Kinopremyera
-http://185.121.1.163:8083/Kinopremyera/index.m3u8
+http://185.121.1.163:8083/Kinopremyera/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="Kinosemya" tvg-logo="https://raw.githubusercontent.com/Jasmeet181/mediaportal-ru-logos/master/TV/.Light/Kinosemja.png" group-title="Кино+",Kinosemya
 http://185.121.1.163:8083/Kinosemya/index.m3u8
 #EXTINF:-1 tvg-name="Kinowood HD" tvg-logo="https://iptvx.one/picons/kinowood.png" group-title="Кино+",Kinowood HD
@@ -102,13 +102,15 @@ http://tvzvezda.bonus-tv.ru/cdn/zvezdaplus/playlist.m3u8
 #EXTINF:-1 tvg-name="Кино 1 International" tvg-logo="https://iptvx.one/picons/kino-1.png" group-title="Кино+",Кино 1 International
 http://kino-1.catcast.tv/content/38617/index.m3u8
 #EXTINF:-1 tvg-name="Кино ТВ" tvg-logo="https://raw.githubusercontent.com/Jasmeet181/mediaportal-ru-logos/master/TV/.Light/Kino%20TV.png" group-title="Кино+",Кино ТВ
-http://stream.mcquack.net/221/tracks-v1a1/mono.ts.m3u8
+http://stream.mcquack.net/221/index.m3u8
 #EXTINF:-1 tvg-name="Киномикс" tvg-logo="https://raw.githubusercontent.com/Jasmeet181/mediaportal-ru-logos/master/TV/.Light/Kinomiks.png" group-title="Кино+",Киномикс
 http://195.64.140.147:10044/44
 #EXTINF:-1 tvg-name="Киномикс HD" tvg-logo="https://raw.githubusercontent.com/Jasmeet181/mediaportal-ru-logos/master/TV/.Light/Kinomiks.png" group-title="Кино+",Киномикс HD
 http://93.170.254.17/Kinomiks/index.m3u8
 #EXTINF:-1 tvg-name="КИНОПРЕМЬЕРА HD" tvg-logo="https://raw.githubusercontent.com/Jasmeet181/mediaportal-ru-logos/master/TV/.Light/Kinopremiera.png" group-title="Кино+",КИНОПРЕМЬЕРА HD
 http://91.205.196.7:8000/play/a02m
+#EXTINF:-1 tvg-id="566" tvg-name="КИНОПРЕМЬЕРА HD" tvg-logo="https://raw.githubusercontent.com/Jasmeet181/mediaportal-ru-logos/master/TV/.Light/Kinopremiera.png" group-title="Кино+",КИНОПРЕМЬЕРА HD (Сервер 2)
+http://5.188.159.128:8070/KINOPREMIERA/index.m3u8
 #EXTINF:-1 tvg-name="КИНОСАТ" tvg-logo="https://iptvx.one/picons/kinosat.png" group-title="Кино+",КИНОСАТ
 http://5.188.221.43:8080/play/kinosat
 #EXTINF:-1 tvg-name="Киносвидание" tvg-logo="https://raw.githubusercontent.com/Jasmeet181/mediaportal-ru-logos/master/TV/.Light/Kinosvidanie.png" group-title="Кино+",Киносвидание
