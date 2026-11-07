@@ -133,6 +133,8 @@ http://195.64.140.147:10054/54
 http://91.205.196.7:8000/play/a03k
 #EXTINF:-1 tvg-id="ostrosyuzhetnoe_hd" tvg-name="Остросюжетное HD" tvg-logo="https://raw.githubusercontent.com/Jasmeet181/mediaportal-ru-logos/master/TV/.Light/Ostrosyuzhetnoe.png" group-title="Кино+",Остросюжетное HD
 http://stream.mcquack.net/214/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-name="Победа" tvg-logo="https://raw.githubusercontent.com/Jasmeet181/mediaportal-ru-logos/master/TV/.Light/Pobeda.png" group-title="Кино+",Победа
+https://fs.uplink.kz/pobeda/mono.m3u8?token=onlinetv2
 #EXTINF:-1 tvg-name="Родное Кино" tvg-logo="https://raw.githubusercontent.com/Jasmeet181/mediaportal-ru-logos/master/TV/.Light/Rodnoe%20Kino.png" group-title="Кино+",Родное Кино
 http://195.64.140.147:10052/52
 #EXTINF:-1 tvg-name="Роман" tvg-logo="https://iptvx.one/picons/roman.png" group-title="Кино+",Роман
