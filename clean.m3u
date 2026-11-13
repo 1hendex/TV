@@ -2,7 +2,7 @@
 #EXTINF:-1 tvg-name="Amedia 1" tvg-logo="https://i.imgur.com/2pAHdAi.png" group-title="Кино+",Amedia 1
 https://fs.uplink.kz/amedia_1/mono.m3u8?token=onlinetv2
 #EXTINF:-1 tvg-name="Amedia 2" tvg-logo="https://i.imgur.com/2pAHdAi.png" group-title="Кино+",Amedia 2
-http://195.64.140.147:10060/60
+http://stream.mcquack.net/162/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="amedia_hit_hd" tvg-name="Amedia Hit HD" tvg-logo="https://iptvx.one/picons/amedia-hit.png" group-title="Кино+",Amedia Hit HD
 http://stream.mcquack.net/162/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-name="Amedia Premium" tvg-logo="https://iptvx.one/picons/amedia-premium.png" group-title="Кино+",Amedia Premium
@@ -38,7 +38,7 @@ http://stream.mcquack.net/412/index.m3u8
 #EXTINF:-1 tvg-name="Дорама HD" tvg-logo="https://raw.githubusercontent.com/Jasmeet181/mediaportal-ru-logos/master/TV/.Light/Dorama.png" group-title="Кино+",Дорама HD
 http://stream.mcquack.net/412/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-name="Золотая коллекция" tvg-logo="https://iptvx.one/picons/mosfilm.png" group-title="Кино+",Золотая коллекция
-http://195.64.140.147:10078/78
+https://fs.uplink.kz/mosfilm/mono.m3u8?token=onlinetv2
 #EXTINF:-1 tvg-id="405" tvg-name="Звезда" tvg-logo="http://epg.it999.ru/img/405.png" group-title="Кино+",Звезда
 http://tvzvezda.bonus-tv.ru/cdn/tvzvezda/playlist.m3u8
 #EXTINF:-1 tvg-id="4661" tvg-name="Звезда Плюс" tvg-logo="http://epg.it999.ru/img/4661.png" group-title="Кино+",Звезда Плюс
@@ -56,13 +56,13 @@ https://fs.uplink.kz/kinopremiera_hd/mono.m3u8?token=onlinetv2
 #EXTINF:-1 tvg-name="КИНОПРЕМЬЕРА HD" tvg-logo="https://raw.githubusercontent.com/Jasmeet181/mediaportal-ru-logos/master/TV/.Light/Kinopremiera.png" group-title="Кино+",КИНОПРЕМЬЕРА HD (Резерв)
 http://91.205.196.7:8000/play/a02m
 #EXTINF:-1 tvg-name="КИНОСАТ" tvg-logo="https://iptvx.one/picons/kinosat.png" group-title="Кино+",КИНОСАТ
-http://5.188.221.43:8080/play/kinosat
+http://stream.mcquack.net/421/index.m3u8
 #EXTINF:-1 tvg-name="Киносвидание" tvg-logo="https://raw.githubusercontent.com/Jasmeet181/mediaportal-ru-logos/master/TV/.Light/Kinosvidanie.png" group-title="Кино+",Киносвидание
 https://fs.uplink.kz/kinosvidanie/mono.m3u8?token=onlinetv2
 #EXTINF:-1 tvg-name="Киносемья" tvg-logo="https://raw.githubusercontent.com/Jasmeet181/mediaportal-ru-logos/master/TV/.Light/Kinosemja.png" group-title="Кино+",Киносемья
 https://fs.uplink.kz/kinosemya/mono.m3u8?token=onlinetv2
 #EXTINF:-1 tvg-name="Киносерия" tvg-logo="https://raw.githubusercontent.com/Jasmeet181/mediaportal-ru-logos/master/TV/.Light/Kinoserija.png" group-title="Кино+",Киносерия
-http://195.64.140.147:10048/48
+https://fs.uplink.kz/kinoseria/mono.m3u8?token=onlinetv2
 #EXTINF:-1 tvg-name="Киноужас" tvg-logo="https://iptvx.one/picons/kinouzhas.png" group-title="Кино+",Киноужас
 https://fs.uplink.kz/kinouzhas/mono.m3u8?token=onlinetv2
 #EXTINF:-1 tvg-name="Кинохит" tvg-logo="https://raw.githubusercontent.com/Jasmeet181/mediaportal-ru-logos/master/TV/.Light/Kinohit.png" group-title="Кино+",Кинохит
@@ -140,9 +140,9 @@ http://iptv.prosto.tv:7000/ch340/video.m3u8
 #EXTINF:-1 tvg-name="Джунгли" tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00513.jpg" group-title="Кино",Джунгли
 http://iptv.prosto.tv:7000/ch339/video.m3u8
 #EXTINF:-1 tvg-name="Диалоги о Рыбалке" tvg-logo="https://i.imgur.com/kK3h4aR.png" group-title="Кино",Диалоги о Рыбалке
-http://195.64.140.147:10117/117
+http://91.205.196.7:8000/play/a028
 #EXTINF:-1 tvg-name="Дикий" tvg-logo="https://i.imgur.com/kK3h4aR.png" group-title="Кино",Дикий
-http://195.64.140.147:10139/139
+http://91.205.196.7:8000/play/a028
 #EXTINF:-1 tvg-name="Дожди" tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00562.jpg" group-title="Кино",Дожди
 http://iptv.prosto.tv:7000/ch304/video.m3u8
 #EXTINF:-1 tvg-name="ДОЖДЬ" tvg-logo="https://pic.rtbcdn.ru/video/2025-05-26/a9/16/a91698e6d45b7f4fbc834685d8d663d2.jpg" group-title="Кино",ДОЖДЬ
@@ -256,7 +256,7 @@ http://iptv.prosto.tv:7000/ch351/video.m3u8
 #EXTINF:-1 tvg-name="Сити Эдем - КиноНовелла" tvg-logo="https://i.imgur.com/kK3h4aR.png" group-title="Кино",Сити Эдем - КиноНовелла
 https://autopilot.catcast.tv/content/46209/index.m3u8
 #EXTINF:-1 tvg-name="Солнце" tvg-logo="https://1rus.ru/content/93/ji/w1500_51593566_720x406.webp" group-title="Кино",Солнце
-http://195.64.140.147:10027/27
+https://tv.mediacdn.ru/live/solntse/playlist_3000k.m3u8
 #EXTINF:-1 tvg-name="Соль" tvg-logo="https://raw.githubusercontent.com/Jasmeet181/mediaportal-ru-logos/master/TV/.Light/Cinema.png" group-title="Кино",Соль
 http://stream.mcquack.net/398/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-name="Старт Триумф" tvg-logo="https://iptvx.one/picons/start-triumf.png" group-title="Кино",Старт Триумф
@@ -302,7 +302,7 @@ https://ottiptvfilmtvgroup.zapto.org:8080/FilmTVKids/index.m3u8?token=eyJ0eXAiOi
 #EXTINF:-1 tvg-name="pes-i-ko" tvg-logo="https://i.imgur.com/eJXfMh0.png" group-title="Детские",pes-i-ko
 http://88.218.242.237:8001/pes-i-ko
 #EXTINF:-1 tvg-name="Tiji" tvg-logo="https://iptvx.one/picons/tiji.png" group-title="Детские",Tiji
-http://195.64.140.147:10128/128
+http://91.205.196.7:8000/play/a01q
 #EXTINF:-1 tvg-name="Карусель" tvg-logo="https://raw.githubusercontent.com/Jasmeet181/mediaportal-ru-logos/master/TV/.Light/Karusel.png" group-title="Детские",Карусель
 https://fs.uplink.kz/karusel/mono.m3u8?token=onlinetv2
 #EXTINF:-1 tvg-name="Мультиландия" tvg-logo="https://raw.githubusercontent.com/Jasmeet181/mediaportal-ru-logos/master/TV/.Light/Multilandia.png" group-title="Детские",Мультиландия
