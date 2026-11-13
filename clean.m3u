@@ -70,7 +70,9 @@ https://fs.uplink.kz/kinohit/mono.m3u8?token=onlinetv2
 #EXTINF:-1 tvg-name="Любимое Кино" tvg-logo="https://raw.githubusercontent.com/Jasmeet181/mediaportal-ru-logos/master/TV/.Light/Lubimoe%20Kino.png" group-title="Кино+",Любимое Кино
 http://stream.mcquack.net/456/index.m3u8
 #EXTINF:-1 tvg-name="МУЖСКОЕ КИНО HD" tvg-logo="https://raw.githubusercontent.com/Jasmeet181/mediaportal-ru-logos/master/TV/.Light/Muzhskoe%20Kino.png" group-title="Кино+",МУЖСКОЕ КИНО HD
-http://91.205.196.7:8000/play/a02n
+https://fs.uplink.kz/muzhskoe_kino/mono.m3u8?token=onlinetv2
+#EXTINF:-1 tvg-name="Блокбастер HD" tvg-logo="https://iptvx.one/picons/blokbaster.png" group-title="Кино+",Блокбастер HD
+http://stream.mcquack.net/364/index.m3u8
 #EXTINF:-1 tvg-name="Настоящее Страшное ТВ" tvg-logo="https://iptvx.one/picons/nst.png" group-title="Кино+",Настоящее Страшное ТВ
 http://stream.mcquack.net/352/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-name="Наше Новое кино" tvg-logo="https://raw.githubusercontent.com/Jasmeet181/mediaportal-ru-logos/master/TV/.Light/Nashe%20Novoe%20Kino.png" group-title="Кино+",Наше Новое кино
@@ -99,7 +101,7 @@ http://stream.mcquack.net/388/index.m3u8
 http://176.126.166.43:1935/live/312kino/playlist.m3u8
 #EXTINF:-1 tvg-name="Animal Planet HD" tvg-logo="https://raw.githubusercontent.com/Jasmeet181/mediaportal-ru-logos/master/TV/.Light/Animal%20Planet.png" group-title="Кино",Animal Planet HD
 http://stream.mcquack.net/114/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-name="Bolt" tvg-logo="https://raw.githubusercontent.com/Jasmeet181/mediaportal-ru-logos/master/TV/.Light/Cinema.png" group-title="Кино",Bolt
+#EXTINF:-1 tvg-name="Bolt" tvg-logo="https://raw.githubusercontent.com/Jasmeet181/mediaportal-ru-logos/master/TV/.Light/Cinema.png" group-title="Кино+",Bolt HD
 http://stream.mcquack.net/73/index.m3u8
 #EXTINF:-1 tvg-name="Channel 11 (Израиль)" tvg-logo="https://raw.githubusercontent.com/Jasmeet181/mediaportal-ru-logos/master/TV/.Light/Cinema.png" group-title="Кино",Channel 11 (Израиль)
 http://stream.mcquack.net/293/index.m3u8
