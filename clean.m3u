@@ -58,13 +58,13 @@ http://91.205.196.7:8000/play/a02m
 #EXTINF:-1 tvg-name="КИНОСАТ" tvg-logo="https://iptvx.one/picons/kinosat.png" group-title="Кино+",КИНОСАТ
 http://5.188.221.43:8080/play/kinosat
 #EXTINF:-1 tvg-name="Киносвидание" tvg-logo="https://raw.githubusercontent.com/Jasmeet181/mediaportal-ru-logos/master/TV/.Light/Kinosvidanie.png" group-title="Кино+",Киносвидание
-http://195.64.140.147:10045/45
+https://fs.uplink.kz/kinosvidanie/mono.m3u8?token=onlinetv2
 #EXTINF:-1 tvg-name="Киносемья" tvg-logo="https://raw.githubusercontent.com/Jasmeet181/mediaportal-ru-logos/master/TV/.Light/Kinosemja.png" group-title="Кино+",Киносемья
 https://fs.uplink.kz/kinosemya/mono.m3u8?token=onlinetv2
 #EXTINF:-1 tvg-name="Киносерия" tvg-logo="https://raw.githubusercontent.com/Jasmeet181/mediaportal-ru-logos/master/TV/.Light/Kinoserija.png" group-title="Кино+",Киносерия
 http://195.64.140.147:10048/48
 #EXTINF:-1 tvg-name="Киноужас" tvg-logo="https://iptvx.one/picons/kinouzhas.png" group-title="Кино+",Киноужас
-http://195.64.140.147:10043/43
+https://fs.uplink.kz/kinouzhas/mono.m3u8?token=onlinetv2
 #EXTINF:-1 tvg-name="Кинохит" tvg-logo="https://raw.githubusercontent.com/Jasmeet181/mediaportal-ru-logos/master/TV/.Light/Kinohit.png" group-title="Кино+",Кинохит
 https://fs.uplink.kz/kinohit/mono.m3u8?token=onlinetv2
 #EXTINF:-1 tvg-name="Любимое Кино" tvg-logo="https://raw.githubusercontent.com/Jasmeet181/mediaportal-ru-logos/master/TV/.Light/Lubimoe%20Kino.png" group-title="Кино+",Любимое Кино
