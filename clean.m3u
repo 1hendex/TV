@@ -87,6 +87,8 @@ https://fs.uplink.kz/pobeda/mono.m3u8?token=onlinetv2
 http://195.64.140.147:10052/52
 #EXTINF:-1 tvg-name="Роман" tvg-logo="https://iptvx.one/picons/roman.png" group-title="Кино+",Роман
 http://195.64.140.147:10076/9976
+#EXTINF:-1 tvg-name="Т24" tvg-logo="https://raw.githubusercontent.com/Jasmeet181/mediaportal-ru-logos/master/TV/.Light/Techno%2024.png" group-title="Кино+",Т24
+https://fs.uplink.kz/tehno_24/mono.m3u8?token=onlinetv2
 #EXTINF:-1 tvg-name="Хит HD" tvg-logo="https://raw.githubusercontent.com/Jasmeet181/mediaportal-ru-logos/master/TV/.Light/Hit.png" group-title="Кино+",Хит HD
 http://stream.mcquack.net/363/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-name=".Black" tvg-logo="https://raw.githubusercontent.com/Jasmeet181/mediaportal-ru-logos/master/TV/.Light/Cinema.png" group-title="Кино",.Black
