@@ -29,6 +29,24 @@ https://fs.uplink.kz/viju_tv1000/mono.m3u8?token=onlinetv2
 https://fs.uplink.kz/viju_tv1000_action/mono.m3u8?token=onlinetv2
 #EXTINF:-1 tvg-name="TV 1000 Русское Кино" tvg-logo="https://raw.githubusercontent.com/Jasmeet181/mediaportal-ru-logos/master/TV/.Light/TV1000%20Russkoe%20Kino.png" group-title="Кино+",TV 1000 Русское Кино
 https://fs.uplink.kz/viju_tv1000_russkoe/mono.m3u8?token=onlinetv2
+#EXTINF:-1 tvg-name="viju+ Premiere HD" tvg-logo="https://iptvx.one/picons/vip-premiere.png" group-title="Кино+",viju+ Premiere HD
+http://46.53.200.153:7777/play/Viju_Premiere/index.m3u8
+#EXTINF:-1 tvg-name="viju+ Megahit HD" tvg-logo="https://iptvx.one/picons/vip-megahit.png" group-title="Кино+",viju+ Megahit HD
+http://46.53.200.153:7777/play/Viju_Megahit_HD/index.m3u8
+#EXTINF:-1 tvg-name="viju+ Comedy HD" tvg-logo="https://iptvx.one/picons/vip-comedy.png" group-title="Кино+",viju+ Comedy HD
+http://46.53.200.153:7777/play/Viju_Comedy_HD/index.m3u8
+#EXTINF:-1 tvg-name="viju+ Serial HD" tvg-logo="https://iptvx.one/picons/vip-serial.png" group-title="Кино+",viju+ Serial HD
+http://46.53.200.153:7777/play/Viju_Serial_HD/index.m3u8
+#EXTINF:-1 tvg-name="viju TV1000 Romantica HD" tvg-logo="https://iptvx.one/picons/viju-tv1000-romantica.png" group-title="Кино+",viju TV1000 Romantica HD
+http://46.53.200.153:7777/play/Viju_Drama/index.m3u8
+#EXTINF:-1 tvg-name="viju Explore" tvg-logo="https://raw.githubusercontent.com/Jasmeet181/mediaportal-ru-logos/master/TV/.Light/Viasat%20Explore.png" group-title="Кино+",viju Explore
+https://fs.uplink.kz/viju_explore/mono.m3u8?token=onlinetv2
+#EXTINF:-1 tvg-name="viju History" tvg-logo="https://raw.githubusercontent.com/Jasmeet181/mediaportal-ru-logos/master/TV/.Light/Viasat%20History.png" group-title="Кино+",viju History
+https://fs.uplink.kz/viju_history/mono.m3u8?token=onlinetv2
+#EXTINF:-1 tvg-name="viju Nature" tvg-logo="https://raw.githubusercontent.com/Jasmeet181/mediaportal-ru-logos/master/TV/.Light/Viasat%20Nature.png" group-title="Кино+",viju Nature
+https://fs.uplink.kz/viju_nature/mono.m3u8?token=onlinetv2
+#EXTINF:-1 tvg-name="viju+ Sport" tvg-logo="https://raw.githubusercontent.com/Jasmeet181/mediaportal-ru-logos/master/TV/.Light/Viasat%20Sport.png" group-title="Кино+",viju+ Sport
+https://fs.uplink.kz/viju_sport/mono.m3u8?token=onlinetv2
 #EXTINF:-1 tvg-name="Дом Кино" tvg-logo="https://raw.githubusercontent.com/Jasmeet181/mediaportal-ru-logos/master/TV/.Light/Dom%20Kino.png" group-title="Кино+",Дом Кино
 https://fs.uplink.kz/dom_kino/mono.m3u8?token=onlinetv2
 #EXTINF:-1 tvg-name="Домашний" tvg-logo="https://raw.githubusercontent.com/Jasmeet181/mediaportal-ru-logos/master/TV/.Light/Domashniy.png" group-title="Кино+",Домашний
