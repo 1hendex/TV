@@ -63,6 +63,8 @@ http://tvzvezda.bonus-tv.ru/cdn/tvzvezda/playlist.m3u8
 http://tvzvezda.bonus-tv.ru/cdn/zvezdaplus/playlist.m3u8
 #EXTINF:-1 tvg-name="Кино 1 International" tvg-logo="https://iptvx.one/picons/kino-1.png" group-title="Кино+",Кино 1 International
 http://kino-1.catcast.tv/content/38617/index.m3u8
+#EXTINF:-1 tvg-id="kinopokaz" tvg-name="Кинопоказ HD" tvg-logo="https://iptvx.one/picons/kinopokaz.png" group-title="Кино+",Кинопоказ HD
+http://stream.mcquack.net/64/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-name="Кино ТВ" tvg-logo="https://raw.githubusercontent.com/Jasmeet181/mediaportal-ru-logos/master/TV/.Light/Kino%20TV.png" group-title="Кино+",Кино ТВ
 http://185.121.1.163:8083/KinoTV/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="Киномикс" tvg-logo="https://raw.githubusercontent.com/Jasmeet181/mediaportal-ru-logos/master/TV/.Light/Kinomiks.png" group-title="Кино+",Киномикс
@@ -87,6 +89,8 @@ https://fs.uplink.kz/kinosemya/mono.m3u8?token=onlinetv2
 https://fs.uplink.kz/kinoseria/mono.m3u8?token=onlinetv2
 #EXTINF:-1 tvg-name="Киноужас" tvg-logo="https://iptvx.one/picons/kinouzhas.png" group-title="Кино+",Киноужас
 https://fs.uplink.kz/kinouzhas/mono.m3u8?token=onlinetv2
+#EXTINF:-1 tvg-id="shokiruyushchee-hd" tvg-name="Шокирующее HD" tvg-logo="https://iptvx.one/picons/shokiruyushchee-hd.png" group-title="Кино+",Шокирующее HD
+http://stream.mcquack.net/75/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-name="Кинохит" tvg-logo="https://raw.githubusercontent.com/Jasmeet181/mediaportal-ru-logos/master/TV/.Light/Kinohit.png" group-title="Кино+",Кинохит
 https://fs.uplink.kz/kinohit/mono.m3u8?token=onlinetv2
 #EXTINF:-1 tvg-name="Любимое Кино" tvg-logo="https://raw.githubusercontent.com/Jasmeet181/mediaportal-ru-logos/master/TV/.Light/Lubimoe%20Kino.png" group-title="Кино+",Любимое Кино
@@ -106,7 +110,9 @@ https://fs.uplink.kz/pobeda/mono.m3u8?token=onlinetv2
 #EXTINF:-1 tvg-name="Родное Кино" tvg-logo="https://raw.githubusercontent.com/Jasmeet181/mediaportal-ru-logos/master/TV/.Light/Rodnoe%20Kino.png" group-title="Кино+",Родное Кино
 https://fs.uplink.kz/rodnoe_kino/mono.m3u8?token=onlinetv2
 #EXTINF:-1 tvg-name="Русский Роман" tvg-logo="https://iptvx.one/picons/russkiy-roman.png" group-title="Кино+",Русский Роман
-http://vod.tuva.ru/rusroman/index.m3u8
+http://85.117.61.84/rusroman/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-name="Русский Роман (Резерв)" tvg-logo="https://iptvx.one/picons/russkiy-roman.png" group-title="Кино+",Русский Роман (Резерв)
+http://vod.tuva.ru/rusroman/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-name="Fresh Romantic HD" tvg-logo="https://iptvx.one/picons/fresh-romantic.png" group-title="Кино+",Fresh Romantic HD
 http://stream.mcquack.net/433/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-name="Kinosweet HD" tvg-logo="https://iptvx.one/picons/kinosweet.png" group-title="Кино+",Kinosweet HD
