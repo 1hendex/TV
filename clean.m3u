@@ -55,11 +55,15 @@ https://fs.uplink.kz/kinomix/mono.m3u8?token=onlinetv2
 https://fs.uplink.kz/kinopremiera_hd/mono.m3u8?token=onlinetv2
 #EXTINF:-1 tvg-name="КИНОПРЕМЬЕРА HD" tvg-logo="https://raw.githubusercontent.com/Jasmeet181/mediaportal-ru-logos/master/TV/.Light/Kinopremiera.png" group-title="Кино+",КИНОПРЕМЬЕРА HD (Резерв)
 http://stream.mcquack.net/424/index.m3u8
+#EXTINF:-1 tvg-name="КИНОПРЕМЬЕРА HD" tvg-logo="https://raw.githubusercontent.com/Jasmeet181/mediaportal-ru-logos/master/TV/.Light/Kinopremiera.png" group-title="Кино+",КИНОПРЕМЬЕРА HD (Резерв 2)
+http://185.121.1.163:8083/Kinopremyera/index.m3u8
 #EXTINF:-1 tvg-name="КИНОСАТ" tvg-logo="https://iptvx.one/picons/kinosat.png" group-title="Кино+",КИНОСАТ
 http://stream.mcquack.net/421/index.m3u8
 #EXTINF:-1 tvg-name="Киносвидание" tvg-logo="https://raw.githubusercontent.com/Jasmeet181/mediaportal-ru-logos/master/TV/.Light/Kinosvidanie.png" group-title="Кино+",Киносвидание
 https://fs.uplink.kz/kinosvidanie/mono.m3u8?token=onlinetv2
-#EXTINF:-1 tvg-name="Киносемья" tvg-logo="https://raw.githubusercontent.com/Jasmeet181/mediaportal-ru-logos/master/TV/.Light/Kinosemja.png" group-title="Кино+",Киносемья
+#EXTINF:-1 tvg-name="Киносемья HD" tvg-logo="https://raw.githubusercontent.com/Jasmeet181/mediaportal-ru-logos/master/TV/.Light/Kinosemja.png" group-title="Кино+",Киносемья HD
+http://185.121.1.163:8083/Kinosemya/index.m3u8
+#EXTINF:-1 tvg-name="Киносемья (Резерв)" tvg-logo="https://raw.githubusercontent.com/Jasmeet181/mediaportal-ru-logos/master/TV/.Light/Kinosemja.png" group-title="Кино+",Киносемья (Резерв)
 https://fs.uplink.kz/kinosemya/mono.m3u8?token=onlinetv2
 #EXTINF:-1 tvg-name="Киносерия" tvg-logo="https://raw.githubusercontent.com/Jasmeet181/mediaportal-ru-logos/master/TV/.Light/Kinoserija.png" group-title="Кино+",Киносерия
 https://fs.uplink.kz/kinoseria/mono.m3u8?token=onlinetv2
