@@ -7,20 +7,6 @@ http://85.117.61.84/amedia2/index.m3u8
 https://fs.uplink.kz/amedia_hit_hd/mono.m3u8?token=onlinetv2
 #EXTINF:-1 tvg-name="Amedia Premium" tvg-logo="https://iptvx.one/picons/amedia-premium.png" group-title="Кино+",Amedia Premium
 https://fs.uplink.kz/amedia_premium_hd/mono.m3u8?token=onlinetv2
-#EXTINF:-1 tvg-name="CINEMAN" tvg-logo="https://iptvx.one/picons/cineman.png" group-title="Кино+",CINEMAN
-http://stream.mcquack.net/122/index.m3u8
-#EXTINF:-1 tvg-name="CineMan Thriller" tvg-logo="https://iptvx.one/picons/cineman-thriller.png" group-title="Кино+",CineMan Thriller
-http://stream.mcquack.net/352/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-name="Cineman Катастрофы" tvg-logo="https://iptvx.one/picons/cineman-katastrofy.png" group-title="Кино+",Cineman Катастрофы
-http://stream.mcquack.net/471/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-name="FRESH CINEMA" tvg-logo="https://iptvx.one/picons/fresh-cinema.png" group-title="Кино+",FRESH CINEMA
-http://stream.mcquack.net/423/index.m3u8
-#EXTINF:-1 tvg-name="KinoKazka" tvg-logo="https://iptvx.one/picons/kinokazka.png" group-title="Кино+",KinoKazka
-http://stream.mcquack.net/167/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-name="KinoLiving HD" tvg-logo="https://iptvx.one/picons/kinoliving.png" group-title="Кино+",KinoLiving HD
-http://stream.mcquack.net/445/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-name="Kinowood HD" tvg-logo="https://iptvx.one/picons/kinowood.png" group-title="Кино+",Kinowood HD
-http://stream.mcquack.net/446/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-name="STAR CINEMA HD" tvg-logo="https://raw.githubusercontent.com/Jasmeet181/mediaportal-ru-logos/master/TV/.Light/Star%20Cinema.png" group-title="Кино+",STAR CINEMA HD
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=4158
 #EXTINF:-1 tvg-name="TV 1000" tvg-logo="https://raw.githubusercontent.com/Jasmeet181/mediaportal-ru-logos/master/TV/.Light/TV1000.png" group-title="Кино+",TV 1000
@@ -83,12 +69,8 @@ https://fs.uplink.kz/kinokomedia/mono.m3u8?token=onlinetv2
 https://stream8.cinerama.uz/1232/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="566" tvg-name="КИНОПРЕМЬЕРА HD" tvg-logo="https://raw.githubusercontent.com/Jasmeet181/mediaportal-ru-logos/master/TV/.Light/Kinopremiera.png" group-title="Кино+",КИНОПРЕМЬЕРА HD
 https://fs.uplink.kz/kinopremiera_hd/mono.m3u8?token=onlinetv2
-#EXTINF:-1 tvg-name="КИНОПРЕМЬЕРА HD" tvg-logo="https://raw.githubusercontent.com/Jasmeet181/mediaportal-ru-logos/master/TV/.Light/Kinopremiera.png" group-title="Кино+",КИНОПРЕМЬЕРА HD (Резерв)
-http://stream.mcquack.net/424/index.m3u8
 #EXTINF:-1 tvg-name="КИНОПРЕМЬЕРА HD" tvg-logo="https://raw.githubusercontent.com/Jasmeet181/mediaportal-ru-logos/master/TV/.Light/Kinopremiera.png" group-title="Кино+",КИНОПРЕМЬЕРА HD (Резерв 2)
 http://185.121.1.163:8083/Kinopremyera/index.m3u8
-#EXTINF:-1 tvg-name="КИНОСАТ" tvg-logo="https://iptvx.one/picons/kinosat.png" group-title="Кино+",КИНОСАТ
-http://stream.mcquack.net/421/index.m3u8
 #EXTINF:-1 tvg-name="Киносвидание" tvg-logo="https://raw.githubusercontent.com/Jasmeet181/mediaportal-ru-logos/master/TV/.Light/Kinosvidanie.png" group-title="Кино+",Киносвидание
 https://fs.uplink.kz/kinosvidanie/mono.m3u8?token=onlinetv2
 #EXTINF:-1 tvg-name="Киносемья HD" tvg-logo="https://raw.githubusercontent.com/Jasmeet181/mediaportal-ru-logos/master/TV/.Light/Kinosemja.png" group-title="Кино+",Киносемья HD
@@ -99,24 +81,12 @@ https://stream8.cinerama.uz/1234/tracks-v1a1/mono.m3u8
 https://fs.uplink.kz/kinoseria/mono.m3u8?token=onlinetv2
 #EXTINF:-1 tvg-name="Киноужас" tvg-logo="https://iptvx.one/picons/kinouzhas.png" group-title="Кино+",Киноужас
 https://fs.uplink.kz/kinouzhas/mono.m3u8?token=onlinetv2
-#EXTINF:-1 tvg-name="Душевное" tvg-logo="https://iptvx.one/picons/dushevnoe.png" group-title="Кино+",Душевное
-http://stream.mcquack.net/213/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-id="shokiruyushchee-hd" tvg-name="Шокирующее HD" tvg-logo="https://iptvx.one/picons/shokiruyushchee-hd.png" group-title="Кино+",Шокирующее HD
-http://stream.mcquack.net/75/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-name="Кинохит" tvg-logo="https://raw.githubusercontent.com/Jasmeet181/mediaportal-ru-logos/master/TV/.Light/Kinohit.png" group-title="Кино+",Кинохит
 https://fs.uplink.kz/kinohit/mono.m3u8?token=onlinetv2
-#EXTINF:-1 tvg-name="Любимое Кино" tvg-logo="https://raw.githubusercontent.com/Jasmeet181/mediaportal-ru-logos/master/TV/.Light/Lubimoe%20Kino.png" group-title="Кино+",Любимое Кино
-http://stream.mcquack.net/456/index.m3u8
 #EXTINF:-1 tvg-name="МУЖСКОЕ КИНО HD" tvg-logo="https://raw.githubusercontent.com/Jasmeet181/mediaportal-ru-logos/master/TV/.Light/Muzhskoe%20Kino.png" group-title="Кино+",МУЖСКОЕ КИНО HD
 https://fs.uplink.kz/muzhskoe_kino/mono.m3u8?token=onlinetv2
-#EXTINF:-1 tvg-name="Блокбастер HD" tvg-logo="https://iptvx.one/picons/blokbaster.png" group-title="Кино+",Блокбастер HD
-http://stream.mcquack.net/364/index.m3u8
-#EXTINF:-1 tvg-name="Настоящее Страшное ТВ" tvg-logo="https://iptvx.one/picons/nst.png" group-title="Кино+",Настоящее Страшное ТВ
-http://stream.mcquack.net/352/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-name="Наше Новое кино" tvg-logo="https://raw.githubusercontent.com/Jasmeet181/mediaportal-ru-logos/master/TV/.Light/Nashe%20Novoe%20Kino.png" group-title="Кино+",Наше Новое кино
 https://fs.uplink.kz/nashe_novoe_kino/mono.m3u8?token=onlinetv2
-#EXTINF:-1 tvg-id="ostrosyuzhetnoe_hd" tvg-name="Остросюжетное HD" tvg-logo="https://raw.githubusercontent.com/Jasmeet181/mediaportal-ru-logos/master/TV/.Light/Ostrosyuzhetnoe.png" group-title="Кино+",Остросюжетное HD
-http://stream.mcquack.net/214/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-name="Победа" tvg-logo="https://raw.githubusercontent.com/Jasmeet181/mediaportal-ru-logos/master/TV/.Light/Pobeda.png" group-title="Кино+",Победа
 https://fs.uplink.kz/pobeda/mono.m3u8?token=onlinetv2
 #EXTINF:-1 tvg-name="Родное Кино" tvg-logo="https://raw.githubusercontent.com/Jasmeet181/mediaportal-ru-logos/master/TV/.Light/Rodnoe%20Kino.png" group-title="Кино+",Родное Кино
@@ -125,48 +95,20 @@ https://fs.uplink.kz/rodnoe_kino/mono.m3u8?token=onlinetv2
 http://85.117.61.84/rusroman/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="Русский Роман (Резерв)" tvg-logo="https://iptvx.one/picons/russkiy-roman.png" group-title="Кино+",Русский Роман (Резерв)
 http://vod.tuva.ru/rusroman/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-name="Fresh Romantic HD" tvg-logo="https://iptvx.one/picons/fresh-romantic.png" group-title="Кино+",Fresh Romantic HD
-http://stream.mcquack.net/433/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-name="Kinosweet HD" tvg-logo="https://iptvx.one/picons/kinosweet.png" group-title="Кино+",Kinosweet HD
-http://stream.mcquack.net/447/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-name="Сiмейнi Мелодрами+" tvg-logo="https://iptvx.one/picons/cineman-melodrama.png" group-title="Кино+",Сiмейнi Мелодрами+
-http://stream.mcquack.net/137/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-name="Т24" tvg-logo="https://raw.githubusercontent.com/Jasmeet181/mediaportal-ru-logos/master/TV/.Light/Techno%2024.png" group-title="Кино+",Т24
 https://fs.uplink.kz/tehno_24/mono.m3u8?token=onlinetv2
 #EXTINF:-1 tvg-id="ntv" tvg-name="НТВ" tvg-logo="https://raw.githubusercontent.com/Jasmeet181/mediaportal-ru-logos/master/TV/.Light/NTV.png" group-title="Кино+",НТВ
 https://fs.uplink.kz/ntv_mir/mono.m3u8?token=onlinetv2
-#EXTINF:-1 tvg-name="Хит HD" tvg-logo="https://raw.githubusercontent.com/Jasmeet181/mediaportal-ru-logos/master/TV/.Light/Hit.png" group-title="Кино+",Хит HD
-http://stream.mcquack.net/363/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-name=".Black" tvg-logo="https://raw.githubusercontent.com/Jasmeet181/mediaportal-ru-logos/master/TV/.Light/Cinema.png" group-title="Кино",.Black
-http://stream.mcquack.net/283/index.m3u8
-#EXTINF:-1 tvg-name=".Sci-Fi" tvg-logo="https://raw.githubusercontent.com/Jasmeet181/mediaportal-ru-logos/master/TV/.Light/Cinema.png" group-title="Кино",.Sci-Fi
-http://stream.mcquack.net/180/index.m3u8
 #EXTINF:-1 tvg-name="31 Канал (Казахстан)" tvg-logo="https://raw.githubusercontent.com/Jasmeet181/mediaportal-ru-logos/master/TV/.Light/Cinema.png" group-title="Кино",31 Канал (Казахстан)
 https://fs.uplink.kz/31kanal/mono.m3u8?token=onlinetv2
 #EXTINF:-1 tvg-name="312Кино" tvg-logo="https://raw.githubusercontent.com/Jasmeet181/mediaportal-ru-logos/master/TV/.Light/Cinema.png" group-title="Кино",312Кино
 http://176.126.166.43:1935/live/312kino/playlist.m3u8
 #EXTINF:-1 tvg-name="Animal Planet HD" tvg-logo="https://raw.githubusercontent.com/Jasmeet181/mediaportal-ru-logos/master/TV/.Light/Animal%20Planet.png" group-title="Кино",Animal Planet HD
 https://stream8.cinerama.uz/1043/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-name="Bolt" tvg-logo="https://raw.githubusercontent.com/Jasmeet181/mediaportal-ru-logos/master/TV/.Light/Cinema.png" group-title="Кино+",Bolt HD
-http://stream.mcquack.net/73/index.m3u8
-#EXTINF:-1 tvg-name="Channel 11 (Израиль)" tvg-logo="https://raw.githubusercontent.com/Jasmeet181/mediaportal-ru-logos/master/TV/.Light/Cinema.png" group-title="Кино",Channel 11 (Израиль)
-http://stream.mcquack.net/293/index.m3u8
 #EXTINF:-1 tvg-name="Che TV" tvg-logo="https://raw.githubusercontent.com/Jasmeet181/mediaportal-ru-logos/master/TV/.Light/Che.png" group-title="Кино",Che TV
 http://5.188.221.43:8080/play/che
-#EXTINF:-1 tvg-name="Discovery" tvg-logo="https://raw.githubusercontent.com/Jasmeet181/mediaportal-ru-logos/master/TV/.Light/Discovery.png" group-title="Кино",Discovery
-http://stream.mcquack.net/177/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-name="DISCOVERY CHANEL HD" tvg-logo="https://raw.githubusercontent.com/Jasmeet181/mediaportal-ru-logos/master/TV/.Light/Discovery.png" group-title="Кино",DISCOVERY CHANEL HD
-http://stream.mcquack.net/177/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-name="Discovery Channel HD" tvg-logo="https://raw.githubusercontent.com/Jasmeet181/mediaportal-ru-logos/master/TV/.Light/Discovery.png" group-title="Кино",Discovery Channel HD
-http://stream.mcquack.net/177/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="http://ottiptvfilmtvgroup.zapto.org:8568/epg.xml" tvg-name="FILM TV Кінозал" tvg-logo="http://filmtvgroup.site/uploads/channel/K1.png" group-title="Кино",FILM TV Кінозал
 https://ottiptvfilmtvgroup.zapto.org:8080/FILMTVKinozal/index.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3ODg2ODMzNjIsImV4cCI6MTc4ODc2OTc2Miwic3ViIjoiQWRtaW4ifQ.elQlt9rDrYlfbg85aZPXxIarprRqhdf58qFUNs3wQqs
-#EXTINF:-1 tvg-name="Investigation Discovery" tvg-logo="https://raw.githubusercontent.com/Jasmeet181/mediaportal-ru-logos/master/TV/.Light/Discovery.png" group-title="Кино",Investigation Discovery
-http://stream.mcquack.net/205/index.m3u8
-#EXTINF:-1 tvg-name="Kentron (Армения)" tvg-logo="https://raw.githubusercontent.com/Jasmeet181/mediaportal-ru-logos/master/TV/.Light/Cinema.png" group-title="Кино",Kentron (Армения)
-http://stream.mcquack.net/39/index.m3u8
-#EXTINF:-1 tvg-name="Maincast Кiберспорт" tvg-logo="https://ushba.tv/assets/images/logo-roku1.png" group-title="Кино",Maincast Кiберспорт
-http://stream.mcquack.net/490/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-name="NHL (Интересные моменты)" tvg-logo="https://raw.githubusercontent.com/Jasmeet181/mediaportal-ru-logos/master/TV/.Light/Cinema.png" group-title="Кино",NHL (Интересные моменты)
 https://nhl-firetv.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-name="Авто плюс" tvg-logo="https://raw.githubusercontent.com/Jasmeet181/mediaportal-ru-logos/master/TV/.Light/Cinema.png" group-title="Кино",Авто плюс
@@ -201,8 +143,6 @@ https://fs.uplink.kz/eurokino/mono.m3u8?token=onlinetv2
 http://88.218.242.237:8001/eda
 #EXTINF:-1 tvg-name="Железная дорога" tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00544.jpg" group-title="Кино",Железная дорога
 http://iptv.prosto.tv:7000/ch348/video.m3u8
-#EXTINF:-1 tvg-name="Закон" tvg-logo="https://pic.rtbcdn.ru/video/2025-06-12/ea/f8/eaf8e2480b8731cf843ac8d366faa249.jpg" group-title="Кино",Закон
-http://stream.mcquack.net/406/index.m3u8
 #EXTINF:-1 tvg-name="ЗЖ" tvg-logo="https://pic.rtbcdn.ru/video/2026-10-15/a4/e5/a4e55f5bf2fbc2c4de85f51fcb609c6f.jpg" group-title="Кино",ЗЖ
 http://185.57.68.33/40/index.m3u8
 #EXTINF:-1 tvg-name="Зима" tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00491.jpg" group-title="Кино",Зима
@@ -215,8 +155,6 @@ https://fs.uplink.kz/indiyskoe_kino/mono.m3u8?token=onlinetv2
 https://fs.uplink.kz/india/mono.m3u8?token=onlinetv2
 #EXTINF:-1 tvg-name="Камин" tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00310.png" group-title="Кино",Камин
 http://iptv.prosto.tv:7000/ch318/video.m3u8
-#EXTINF:-1 tvg-name="канал" tvg-logo="https://i.imgur.com/eJXfMh0.png" group-title="Кино",канал
-http://stream.mcquack.net/157/index.m3u8
 #EXTINF:-1 tvg-name="Катастрофы" tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00295.jpg" group-title="Кино",Катастрофы
 http://iptv.prosto.tv:7000/ch312/video.m3u8
 #EXTINF:-1 tvg-name="КТК (Казахстан)" tvg-logo="https://raw.githubusercontent.com/Jasmeet181/mediaportal-ru-logos/master/TV/.Light/Cinema.png" group-title="Кино",КТК (Казахстан)
@@ -261,8 +199,6 @@ http://31.148.5.241/Match_Football_2_HD/index.m3u8
 http://31.148.5.241/Match_Football_3_HD/index.m3u8
 #EXTINF:-1 tvg-name="Моя Планета" tvg-logo="https://raw.githubusercontent.com/Jasmeet181/mediaportal-ru-logos/master/TV/.Light/Cinema.png" group-title="Кино",Моя Планета
 https://fs.uplink.kz/moya_planeta/mono.m3u8?token=onlinetv2
-#EXTINF:-1 tvg-name="Моя стихия" tvg-logo="https://raw.githubusercontent.com/Jasmeet181/mediaportal-ru-logos/master/TV/.Light/Cinema.png" group-title="Кино",Моя стихия
-http://stream.mcquack.net/141/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-name="Наш Кинопоказ" tvg-logo="https://raw.githubusercontent.com/Jasmeet181/mediaportal-ru-logos/master/TV/.Light/Cinema.png" group-title="Кино",Наш Кинопоказ
 http://46.53.200.153:7777/play/SRT_Nash_kinopokaz/index.m3u8
 #EXTINF:-1 tvg-id="http://ottiptvfilmtvgroup.zapto.org:8568/epg.xml" tvg-name="Новосілки ТБ" tvg-logo="http://filmtvgroup.site/uploads/channel/novosilkylogo2024best.png" group-title="Кино",Новосілки ТБ
@@ -285,10 +221,6 @@ http://78.130.149.196:1935/live/pptv.stream/playlist.m3u8
 http://iptv.prosto.tv:7000/ch332/video.m3u8
 #EXTINF:-1 tvg-name="Подводный мир" tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00561.jpg" group-title="Кино",Подводный мир
 http://iptv.prosto.tv:7000/ch305/video.m3u8
-#EXTINF:-1 tvg-name="Премиальное" tvg-logo="https://raw.githubusercontent.com/Jasmeet181/mediaportal-ru-logos/master/TV/.Light/Cinema.png" group-title="Кино",Премиальное
-http://stream.mcquack.net/421/index.m3u8
-#EXTINF:-1 tvg-name="Премиальное HD" tvg-logo="https://raw.githubusercontent.com/Jasmeet181/mediaportal-ru-logos/master/TV/.Light/Cinema.png" group-title="Кино",Премиальное HD
-http://stream.mcquack.net/421/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-name="Приключения HD" tvg-logo="https://1rus.ru/content/y1/o4/OKSM8mP4jI02kaCiMTgQ_720x406.webp" group-title="Кино",Приключения HD
 https://stream8.cinerama.uz/1420/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="Радіо ArmyFM" tvg-logo="https://raw.githubusercontent.com/Jasmeet181/mediaportal-ru-logos/master/TV/.Light/Cinema.png" group-title="Кино",Радіо ArmyFM
@@ -305,14 +237,10 @@ http://iptv.prosto.tv:7000/ch351/video.m3u8
 https://autopilot.catcast.tv/content/46209/index.m3u8
 #EXTINF:-1 tvg-name="Солнце" tvg-logo="https://1rus.ru/content/93/ji/w1500_51593566_720x406.webp" group-title="Кино",Солнце
 https://tv.mediacdn.ru/live/solntse/playlist_3000k.m3u8
-#EXTINF:-1 tvg-name="Соль" tvg-logo="https://raw.githubusercontent.com/Jasmeet181/mediaportal-ru-logos/master/TV/.Light/Cinema.png" group-title="Кино",Соль
-http://stream.mcquack.net/398/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-name="Старт Триумф" tvg-logo="https://iptvx.one/picons/start-triumf.png" group-title="Кино",Старт Триумф
 http://88.218.242.237:8001/Start_Triumf_HD
 #EXTINF:-1 tvg-name="ТV 3" tvg-logo="https://raw.githubusercontent.com/Jasmeet181/mediaportal-ru-logos/master/TV/.Light/Cinema.png" group-title="Кино",ТV 3
 http://31.148.5.241/kanal_15/index.m3u8
-#EXTINF:-1 tvg-name="ТБ HD" tvg-logo="https://raw.githubusercontent.com/Jasmeet181/mediaportal-ru-logos/master/TV/.Light/Match%20Futbol%201.png" group-title="Кино",ТБ HD
-http://stream.mcquack.net/156/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-name="ТВ 3" tvg-logo="https://raw.githubusercontent.com/Jasmeet181/mediaportal-ru-logos/master/TV/.Light/Cinema.png" group-title="Кино",ТВ 3
 http://31.148.5.241/kanal_15/index.m3u8
 #EXTINF:-1 tvg-name="ТВ|21" tvg-logo="https://raw.githubusercontent.com/Jasmeet181/mediaportal-ru-logos/master/TV/.Light/Cinema.png" group-title="Кино",ТВ|21
@@ -373,12 +301,8 @@ http://m3u8.ott.blue/C5UK_1plus1SD/mpegts?token=94450098895765784220366841698509
 https://dash2.antik.sk/live/1plus1_marathon/playlist.m3u8
 #EXTINF:-1 tvg-name="1+1 Україна" tvg-logo="https://i.imgur.com/eJXfMh0.png" group-title="Украина",1+1 Україна
 http://portal.ott.pink/C5UK_1plus1SD/index.m3u8?token=927E03BF1A83DF5DE6628CAF78BA2C13
-#EXTINF:-1 tvg-name="1+1 Україна (UA)" tvg-logo="https://i.imgur.com/eJXfMh0.png" group-title="Украина",1+1 Україна (UA)
-http://portal.ott.pink/C5UK_1plus1SD/index.m3u8?token=2B8378CADCB27AA393170BD7EDB7C0E9
 #EXTINF:-1 tvg-name="1TV HD" tvg-logo="https://i.imgur.com/eJXfMh0.png" group-title="Украина",1TV HD
 https://tv.cdn.xsg.ge/gpb-1tv/tracks-v1a1/mono.m3u8?token=tva.org.ua
-#EXTINF:-1 tvg-name="2+2" tvg-logo="https://i.imgur.com/eJXfMh0.png" group-title="Украина",2+2
-http://stream.mcquack.net/173/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-name="33 канал" tvg-logo="https://i.imgur.com/eJXfMh0.png" group-title="Украина",33 канал
 https://33news.org/33chanel/live/chunklist_w1484176056.m3u8
 #EXTINF:-1 tvg-name="33 канал (Хмельницький)" tvg-logo="https://i.imgur.com/eJXfMh0.png" group-title="Украина",33 канал (Хмельницький)
@@ -389,8 +313,6 @@ https://api-tv.ipnet.ua/api/v1/manifest/2118742539.m3u8
 https://dash3.antik.sk/live/test_espresso/playlist.m3u8
 #EXTINF:-1 tvg-name="FREE ДОМ" tvg-logo="https://i.imgur.com/eJXfMh0.png" group-title="Украина",FREE ДОМ
 https://dash2.antik.sk/live/test_uatv/playlist.m3u8
-#EXTINF:-1 tvg-name="FREEDOM UA HD" tvg-logo="https://i.imgur.com/eJXfMh0.png" group-title="Украина",FREEDOM UA HD
-http://portal.ott.pink/C3UK_UATVRU/index.m3u8?token=927E03BF1A83DF5DE6628CAF78BA2C13
 #EXTINF:-1 tvg-name="ITV (Рівне)" tvg-logo="https://raw.githubusercontent.com/Jasmeet181/mediaportal-ru-logos/master/TV/.Light/Cinema.png" group-title="Украина",ITV (Рівне)
 http://cdn10.live-tv.od.ua:8081/itvrv/abr-lq/playlist.m3u8
 #EXTINF:-1 tvg-name="TV Rivne 1" tvg-logo="https://i.imgur.com/eJXfMh0.png" group-title="Украина",TV Rivne 1
@@ -399,8 +321,6 @@ https://cdn1.live-tv.cloud/rivne1/rivne1-abr/playlist.m3u8
 https://avers.pp.ua/hls/efir.m3u8?key=iptv*org*ua
 #EXTINF:-1 tvg-name="Аверс ТВ" tvg-logo="https://i.imgur.com/eJXfMh0.png" group-title="Украина",Аверс ТВ
 http://portal.ott.pink/C5UK_AversUA/index.m3u8?token=927E03BF1A83DF5DE6628CAF78BA2C13
-#EXTINF:-1 tvg-name="Армія TB" tvg-logo="https://i.imgur.com/eJXfMh0.png" group-title="Украина",Армія TB
-http://portal.ott.pink/C5UK_ArmyTVHD/index.m3u8?token=927E03BF1A83DF5DE6628CAF78BA2C13
 #EXTINF:-1 tvg-name="Армія ТБ" tvg-logo="https://i.imgur.com/eJXfMh0.png" group-title="Украина",Армія ТБ
 https://api-tv.ipnet.ua/api/v1/manifest/2118742632.m3u8
 #EXTINF:-1 tvg-name="Глас" tvg-logo="https://i.imgur.com/eJXfMh0.png" group-title="Украина",Глас
@@ -413,8 +333,6 @@ http://195.189.60.253/zakon_tv_hd/video.m3u8
 https://cdn15.live-tv.cloud/ua_infinitas_tv/k2-abr/playlist.m3u8
 #EXTINF:-1 tvg-name="МАСОН ТВ" tvg-logo="https://i.imgur.com/eJXfMh0.png" group-title="Украина",МАСОН ТВ
 http://195.189.60.253/mason_tv_hd/video.m3u8
-#EXTINF:-1 tvg-name="Машина часу" tvg-logo="https://i.imgur.com/eJXfMh0.png" group-title="Украина",Машина часу
-http://stream.mcquack.net/140/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-name="Мега" tvg-logo="https://i.imgur.com/eJXfMh0.png" group-title="Украина",Мега
 https://cdn15.live-tv.cloud/ua_infinitas_tv/mega-abr/playlist.m3u8
 #EXTINF:-1 tvg-name="Мелодія FM" tvg-logo="https://i.imgur.com/eJXfMh0.png" group-title="Украина",Мелодія FM
@@ -424,15 +342,11 @@ https://online.melodiafm.ua/MelodiaFM_Disco_HD
 #EXTINF:-1 tvg-name="Мелодія FM - Romantic HD" tvg-logo="https://i.imgur.com/eJXfMh0.png" group-title="Украина",Мелодія FM - Romantic HD
 https://online.melodiafm.ua/MelodiaFM_Romantic_HD
 #EXTINF:-1 tvg-name="Ми - Україна" tvg-logo="https://i.imgur.com/eJXfMh0.png" group-title="Украина",Ми - Україна
-http://portal.ott.pink/C4UK_MuUkraineHD/index.m3u8?token=B0B73593320445A22451378DF37B3E76
+https://api-tv.ipnet.ua/api/v1/manifest/2118742680.m3u8
 #EXTINF:-1 tvg-name="МИ+ УКРАЇНА HD" tvg-logo="https://i.imgur.com/eJXfMh0.png" group-title="Украина",МИ+ УКРАЇНА HD
 https://api-tv.ipnet.ua/api/v1/manifest/2118742680.m3u8
 #EXTINF:-1 tvg-name="Ми-Україна HD" tvg-logo="https://i.imgur.com/eJXfMh0.png" group-title="Украина",Ми-Україна HD
-http://portal.ott.pink/C4UK_MuUkraineHD/index.m3u8?token=B0B73593320445A22451378DF37B3E76
-#EXTINF:-1 tvg-name="МТМ Запоріжжя" tvg-logo="https://i.imgur.com/eJXfMh0.png" group-title="Украина",МТМ Запоріжжя
-https://stream.ztv.zp.ua/hls/live.m3u8
-#EXTINF:-1 tvg-name="Міледі ТВ" tvg-logo="https://i.imgur.com/eJXfMh0.png" group-title="Украина",Міледі ТВ
-http://stream.mcquack.net/210/index.m3u8
+https://api-tv.ipnet.ua/api/v1/manifest/2118742680.m3u8
 #EXTINF:-1 tvg-name="Наука" tvg-logo="https://i.imgur.com/kK3h4aR.png" group-title="Украина",Наука
 http://178.134.1.158:8081/nauka/index.m3u8?token=tva.in.ua
 #EXTINF:-1 tvg-name="НТК" tvg-logo="https://i.imgur.com/eJXfMh0.png" group-title="Украина",НТК
@@ -441,12 +355,8 @@ http://stream.ntktv.ua/s/ntk/ntk.m3u8
 https://stream.ntktv.ua/s/ntk/ntk.m3u8?cur=tva.org.ua&key=3i277
 #EXTINF:-1 tvg-name="НТН" tvg-logo="https://i.imgur.com/eJXfMh0.png" group-title="Украина",НТН
 https://cdn15.live-tv.cloud/ua_infinitas_tv/ntn-abr/playlist.m3u8
-#EXTINF:-1 tvg-name="ОЦЕ" tvg-logo="https://i.imgur.com/eJXfMh0.png" group-title="Украина",ОЦЕ
-http://stream.mcquack.net/329/index.m3u8
 #EXTINF:-1 tvg-name="ПЕРШИЙ HD" tvg-logo="http://ottpink.network/picons/suspilne-pershy_165x165.png" group-title="Украина",ПЕРШИЙ HD
 https://api-tv.ipnet.ua/api/v1/manifest/2118742505.m3u8
-#EXTINF:-1 tvg-name="Перший Автомобільний" tvg-logo="https://i.imgur.com/eJXfMh0.png" group-title="Украина",Перший Автомобільний
-http://stream.mcquack.net/404/index.m3u8
 #EXTINF:-1 tvg-name="Перший Кабельний" tvg-logo="https://i.imgur.com/eJXfMh0.png" group-title="Украина",Перший Кабельний
 http://91.226.35.134:8081/PK
 #EXTINF:-1 tvg-name="Перший міський Кривий Ріг" tvg-logo="https://i.imgur.com/eJXfMh0.png" group-title="Украина",Перший міський Кривий Ріг
@@ -465,8 +375,6 @@ http://cdn10.live-tv.od.ua:8081/sk1zt/sk1zt720p/playlist.m3u8
 http://svarozhichi.cdn-04.cosmonova.net.ua/mobile-app/main/svarozhichi/master.m3u8
 #EXTINF:-1 tvg-name="СК1 (Житомир)" tvg-logo="https://i.imgur.com/eJXfMh0.png" group-title="Украина",СК1 (Житомир)
 http://cdn10.live-tv.od.ua:8081/sk1zt/sk1zt-abr-lq/playlist.m3u8
-#EXTINF:-1 tvg-name="Суспільне Перший (T2) (UA)" tvg-logo="http://ottpink.network/picons/suspilne-pershy_165x165.png" group-title="Украина",Суспільне Перший (T2) (UA)
-http://portal.ott.pink/C5UK_SyspilnePershiyT2/index.m3u8?token=B0B73593320445A22451378DF37B3E76
 #EXTINF:-1 tvg-name="Сфера ТВ" tvg-logo="https://upload.wikimedia.org/wikipedia/ru/8/88/Sphere-cinema-en.jpg" group-title="Украина",Сфера ТВ
 http://cdn10.live-tv.od.ua:8081/sferarv/sferarv-abr/playlist.m3u8
 #EXTINF:-1 tvg-name="ТВА tva*in-ua" tvg-logo="https://pic.rtbcdn.ru/video/2026-04-11/ca/4c/ca4cbcd326547e1b4a7a925142db00d2.jpg" group-title="Украина",ТВА tva*in-ua
@@ -507,8 +415,6 @@ https://dash2.antik.sk/live/test_relax/playlist.m3u8
 http://176.122.99.7:7000/ch317/video.m3u8
 #EXTINF:-1 tvg-name="Комната релакс" tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00492.jpg" group-title="Музыка",Комната релакс
 http://iptv.prosto.tv:7000/ch328/video.m3u8
-#EXTINF:-1 tvg-name="Музвар" tvg-logo="https://i.imgur.com/eJXfMh0.png" group-title="Музыка",Музвар
-http://stream.mcquack.net/467/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-name="Музыка 1 International" tvg-logo="https://img.catcast.tv/uploads/25062020/logos/37745-5ef3d10ff0621.png" group-title="Музыка",Музыка 1 International
 http://kino-1.catcast.tv/content/37745/index.m3u8
 #EXTINF:-1 tvg-name="Музыка 2 International" tvg-logo="https://img.catcast.tv/uploads/25062020/logos/37742-5ef3cf8ca433c.png" group-title="Музыка",Музыка 2 International
@@ -521,3 +427,100 @@ http://online.nasheradio.ua/NasheRadio
 http://online.nasheradio.ua/NasheRadio_Live
 #EXTINF:-1 tvg-name="Радіо Novaline UA" tvg-logo="https://i.imgur.com/eJXfMh0.png" group-title="Музыка",Радіо Novaline UA
 https://stream.novaline.net.ua/Novaline_320
+#EXTINF:-1 tvg-name="FREEDOM UA HD" tvg-logo="https://i.imgur.com/eJXfMh0.png" group-title="Украина",FREEDOM UA HD
+http://portal.ott.pink/C3UK_UATVRU/index.m3u8?token=927E03BF1A83DF5DE6628CAF78BA2C13
+#EXTINF:-1 tvg-name="Армія TB" tvg-logo="https://i.imgur.com/eJXfMh0.png" group-title="Украина",Армія TB
+https://api-tv.ipnet.ua/api/v1/manifest/2118742632.m3u8
+#EXTINF:-1 tvg-name="Суспільне Перший (T2) (UA)" tvg-logo="http://ottpink.network/picons/suspilne-pershy_165x165.png" group-title="Украина",Суспільне Перший (T2) (UA)
+https://api-tv.ipnet.ua/api/v1/manifest/2118742505.m3u8
+
+### НЕ РАБОТАЮТ (СОХРАНЕНЫ ДЛЯ ВОЗМОЖНОГО ОБНОВЛЕНИЯ СЕРВЕРОВ) ###
+
+#EXTINF:-1 tvg-name="1+1 Україна (UA)" tvg-logo="https://i.imgur.com/eJXfMh0.png" group-title="[Не работает]",1+1 Україна (UA)
+http://portal.ott.pink/C5UK_1plus1SD/index.m3u8?token=2B8378CADCB27AA393170BD7EDB7C0E9
+#EXTINF:-1 tvg-name="CINEMAN" tvg-logo="https://iptvx.one/picons/cineman.png" group-title="[Не работает]",CINEMAN
+http://stream.mcquack.net/122/index.m3u8
+#EXTINF:-1 tvg-name="CineMan Thriller" tvg-logo="https://iptvx.one/picons/cineman-thriller.png" group-title="[Не работает]",CineMan Thriller
+http://stream.mcquack.net/352/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-name="Cineman Катастрофы" tvg-logo="https://iptvx.one/picons/cineman-katastrofy.png" group-title="[Не работает]",Cineman Катастрофы
+http://stream.mcquack.net/471/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-name="FRESH CINEMA" tvg-logo="https://iptvx.one/picons/fresh-cinema.png" group-title="[Не работает]",FRESH CINEMA
+http://stream.mcquack.net/423/index.m3u8
+#EXTINF:-1 tvg-name="KinoKazka" tvg-logo="https://iptvx.one/picons/kinokazka.png" group-title="[Не работает]",KinoKazka
+http://stream.mcquack.net/167/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-name="KinoLiving HD" tvg-logo="https://iptvx.one/picons/kinoliving.png" group-title="[Не работает]",KinoLiving HD
+http://stream.mcquack.net/445/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-name="Kinowood HD" tvg-logo="https://iptvx.one/picons/kinowood.png" group-title="[Не работает]",Kinowood HD
+http://stream.mcquack.net/446/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-name="КИНОПРЕМЬЕРА HD" tvg-logo="https://raw.githubusercontent.com/Jasmeet181/mediaportal-ru-logos/master/TV/.Light/Kinopremiera.png" group-title="[Не работает]",КИНОПРЕМЬЕРА HD (Резерв)
+http://stream.mcquack.net/424/index.m3u8
+#EXTINF:-1 tvg-name="КИНОСАТ" tvg-logo="https://iptvx.one/picons/kinosat.png" group-title="[Не работает]",КИНОСАТ
+http://stream.mcquack.net/421/index.m3u8
+#EXTINF:-1 tvg-name="Душевное" tvg-logo="https://iptvx.one/picons/dushevnoe.png" group-title="[Не работает]",Душевное
+http://stream.mcquack.net/213/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-id="shokiruyushchee-hd" tvg-name="Шокирующее HD" tvg-logo="https://iptvx.one/picons/shokiruyushchee-hd.png" group-title="[Не работает]",Шокирующее HD
+http://stream.mcquack.net/75/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-name="Любимое Кино" tvg-logo="https://raw.githubusercontent.com/Jasmeet181/mediaportal-ru-logos/master/TV/.Light/Lubimoe%20Kino.png" group-title="[Не работает]",Любимое Кино
+http://stream.mcquack.net/456/index.m3u8
+#EXTINF:-1 tvg-name="Блокбастер HD" tvg-logo="https://iptvx.one/picons/blokbaster.png" group-title="[Не работает]",Блокбастер HD
+http://stream.mcquack.net/364/index.m3u8
+#EXTINF:-1 tvg-name="Настоящее Страшное ТВ" tvg-logo="https://iptvx.one/picons/nst.png" group-title="[Не работает]",Настоящее Страшное ТВ
+http://stream.mcquack.net/352/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-id="ostrosyuzhetnoe_hd" tvg-name="Остросюжетное HD" tvg-logo="https://raw.githubusercontent.com/Jasmeet181/mediaportal-ru-logos/master/TV/.Light/Ostrosyuzhetnoe.png" group-title="[Не работает]",Остросюжетное HD
+http://stream.mcquack.net/214/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-name="Fresh Romantic HD" tvg-logo="https://iptvx.one/picons/fresh-romantic.png" group-title="[Не работает]",Fresh Romantic HD
+http://stream.mcquack.net/433/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-name="Kinosweet HD" tvg-logo="https://iptvx.one/picons/kinosweet.png" group-title="[Не работает]",Kinosweet HD
+http://stream.mcquack.net/447/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-name="Сiмейнi Мелодрами+" tvg-logo="https://iptvx.one/picons/cineman-melodrama.png" group-title="[Не работает]",Сiмейнi Мелодрами+
+http://stream.mcquack.net/137/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-name="Хит HD" tvg-logo="https://raw.githubusercontent.com/Jasmeet181/mediaportal-ru-logos/master/TV/.Light/Hit.png" group-title="[Не работает]",Хит HD
+http://stream.mcquack.net/363/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-name=".Black" tvg-logo="https://raw.githubusercontent.com/Jasmeet181/mediaportal-ru-logos/master/TV/.Light/Cinema.png" group-title="[Не работает]",.Black
+http://stream.mcquack.net/283/index.m3u8
+#EXTINF:-1 tvg-name=".Sci-Fi" tvg-logo="https://raw.githubusercontent.com/Jasmeet181/mediaportal-ru-logos/master/TV/.Light/Cinema.png" group-title="[Не работает]",.Sci-Fi
+http://stream.mcquack.net/180/index.m3u8
+#EXTINF:-1 tvg-name="Bolt" tvg-logo="https://raw.githubusercontent.com/Jasmeet181/mediaportal-ru-logos/master/TV/.Light/Cinema.png" group-title="[Не работает]",Bolt HD
+http://stream.mcquack.net/73/index.m3u8
+#EXTINF:-1 tvg-name="Channel 11 (Израиль)" tvg-logo="https://raw.githubusercontent.com/Jasmeet181/mediaportal-ru-logos/master/TV/.Light/Cinema.png" group-title="[Не работает]",Channel 11 (Израиль)
+http://stream.mcquack.net/293/index.m3u8
+#EXTINF:-1 tvg-name="Discovery" tvg-logo="https://raw.githubusercontent.com/Jasmeet181/mediaportal-ru-logos/master/TV/.Light/Discovery.png" group-title="[Не работает]",Discovery
+http://stream.mcquack.net/177/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-name="DISCOVERY CHANEL HD" tvg-logo="https://raw.githubusercontent.com/Jasmeet181/mediaportal-ru-logos/master/TV/.Light/Discovery.png" group-title="[Не работает]",DISCOVERY CHANEL HD
+http://stream.mcquack.net/177/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-name="Discovery Channel HD" tvg-logo="https://raw.githubusercontent.com/Jasmeet181/mediaportal-ru-logos/master/TV/.Light/Discovery.png" group-title="[Не работает]",Discovery Channel HD
+http://stream.mcquack.net/177/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-name="Investigation Discovery" tvg-logo="https://raw.githubusercontent.com/Jasmeet181/mediaportal-ru-logos/master/TV/.Light/Discovery.png" group-title="[Не работает]",Investigation Discovery
+http://stream.mcquack.net/205/index.m3u8
+#EXTINF:-1 tvg-name="Kentron (Армения)" tvg-logo="https://raw.githubusercontent.com/Jasmeet181/mediaportal-ru-logos/master/TV/.Light/Cinema.png" group-title="[Не работает]",Kentron (Армения)
+http://stream.mcquack.net/39/index.m3u8
+#EXTINF:-1 tvg-name="Maincast Кiберспорт" tvg-logo="https://ushba.tv/assets/images/logo-roku1.png" group-title="[Не работает]",Maincast Кiберспорт
+http://stream.mcquack.net/490/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-name="Закон" tvg-logo="https://pic.rtbcdn.ru/video/2025-06-12/ea/f8/eaf8e2480b8731cf843ac8d366faa249.jpg" group-title="[Не работает]",Закон
+http://stream.mcquack.net/406/index.m3u8
+#EXTINF:-1 tvg-name="канал" tvg-logo="https://i.imgur.com/eJXfMh0.png" group-title="[Не работает]",канал
+http://stream.mcquack.net/157/index.m3u8
+#EXTINF:-1 tvg-name="Моя стихия" tvg-logo="https://raw.githubusercontent.com/Jasmeet181/mediaportal-ru-logos/master/TV/.Light/Cinema.png" group-title="[Не работает]",Моя стихия
+http://stream.mcquack.net/141/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-name="Премиальное" tvg-logo="https://raw.githubusercontent.com/Jasmeet181/mediaportal-ru-logos/master/TV/.Light/Cinema.png" group-title="[Не работает]",Премиальное
+http://stream.mcquack.net/421/index.m3u8
+#EXTINF:-1 tvg-name="Премиальное HD" tvg-logo="https://raw.githubusercontent.com/Jasmeet181/mediaportal-ru-logos/master/TV/.Light/Cinema.png" group-title="[Не работает]",Премиальное HD
+http://stream.mcquack.net/421/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-name="Соль" tvg-logo="https://raw.githubusercontent.com/Jasmeet181/mediaportal-ru-logos/master/TV/.Light/Cinema.png" group-title="[Не работает]",Соль
+http://stream.mcquack.net/398/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-name="ТБ HD" tvg-logo="https://raw.githubusercontent.com/Jasmeet181/mediaportal-ru-logos/master/TV/.Light/Match%20Futbol%201.png" group-title="[Не работает]",ТБ HD
+http://stream.mcquack.net/156/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-name="2+2" tvg-logo="https://i.imgur.com/eJXfMh0.png" group-title="[Не работает]",2+2
+http://stream.mcquack.net/173/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-name="Машина часу" tvg-logo="https://i.imgur.com/eJXfMh0.png" group-title="[Не работает]",Машина часу
+http://stream.mcquack.net/140/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-name="МТМ Запоріжжя" tvg-logo="https://i.imgur.com/eJXfMh0.png" group-title="[Не работает]",МТМ Запоріжжя
+https://stream.ztv.zp.ua/hls/live.m3u8
+#EXTINF:-1 tvg-name="Міледі ТВ" tvg-logo="https://i.imgur.com/eJXfMh0.png" group-title="[Не работает]",Міледі ТВ
+http://stream.mcquack.net/210/index.m3u8
+#EXTINF:-1 tvg-name="ОЦЕ" tvg-logo="https://i.imgur.com/eJXfMh0.png" group-title="[Не работает]",ОЦЕ
+http://stream.mcquack.net/329/index.m3u8
+#EXTINF:-1 tvg-name="Перший Автомобільний" tvg-logo="https://i.imgur.com/eJXfMh0.png" group-title="[Не работает]",Перший Автомобільний
+http://stream.mcquack.net/404/index.m3u8
+#EXTINF:-1 tvg-name="Музвар" tvg-logo="https://i.imgur.com/eJXfMh0.png" group-title="[Не работает]",Музвар
+http://stream.mcquack.net/467/tracks-v1a1/mono.ts.m3u8
