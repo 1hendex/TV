@@ -299,8 +299,6 @@ https://dash2.antik.sk/live/test_one_plus_one_int_tizen/playlist.m3u8
 http://m3u8.ott.blue/C5UK_1plus1SD/mpegts?token=94450098895765784220366841698509
 #EXTINF:-1 tvg-name="1+1 Марафон" tvg-logo="https://i.imgur.com/eJXfMh0.png" group-title="Украина",1+1 Марафон
 https://dash2.antik.sk/live/1plus1_marathon/playlist.m3u8
-#EXTINF:-1 tvg-name="1+1 Україна" tvg-logo="https://i.imgur.com/eJXfMh0.png" group-title="Украина",1+1 Україна
-http://portal.ott.pink/C5UK_1plus1SD/index.m3u8?token=927E03BF1A83DF5DE6628CAF78BA2C13
 #EXTINF:-1 tvg-name="1TV HD" tvg-logo="https://i.imgur.com/eJXfMh0.png" group-title="Украина",1TV HD
 https://tv.cdn.xsg.ge/gpb-1tv/tracks-v1a1/mono.m3u8?token=tva.org.ua
 #EXTINF:-1 tvg-name="33 канал" tvg-logo="https://i.imgur.com/eJXfMh0.png" group-title="Украина",33 канал
@@ -319,8 +317,6 @@ http://cdn10.live-tv.od.ua:8081/itvrv/abr-lq/playlist.m3u8
 https://cdn1.live-tv.cloud/rivne1/rivne1-abr/playlist.m3u8
 #EXTINF:-1 tvg-name="Аверс (Луцьк)" tvg-logo="https://i.imgur.com/eJXfMh0.png" group-title="Украина",Аверс (Луцьк)
 https://avers.pp.ua/hls/efir.m3u8?key=iptv*org*ua
-#EXTINF:-1 tvg-name="Аверс ТВ" tvg-logo="https://i.imgur.com/eJXfMh0.png" group-title="Украина",Аверс ТВ
-http://portal.ott.pink/C5UK_AversUA/index.m3u8?token=927E03BF1A83DF5DE6628CAF78BA2C13
 #EXTINF:-1 tvg-name="Армія ТБ" tvg-logo="https://i.imgur.com/eJXfMh0.png" group-title="Украина",Армія ТБ
 https://api-tv.ipnet.ua/api/v1/manifest/2118742632.m3u8
 #EXTINF:-1 tvg-name="Глас" tvg-logo="https://i.imgur.com/eJXfMh0.png" group-title="Украина",Глас
@@ -381,8 +377,6 @@ http://cdn10.live-tv.od.ua:8081/sferarv/sferarv-abr/playlist.m3u8
 http://rtsp.cdn.ua/tva.ua_live/_definst_/livestream/playlist.m3u8
 #EXTINF:-1 tvg-name="ТВА tva*org-ua" tvg-logo="https://pic.rtbcdn.ru/video/2026-04-11/ca/4c/ca4cbcd326547e1b4a7a925142db00d2.jpg" group-title="Украина",ТВА tva*org-ua
 http://hls.cdn.ua/tva.ua_live/_definst_/livestream/playlist.m3u8
-#EXTINF:-1 tvg-name="Телеканал Репортер Одеса" tvg-logo="https://i.imgur.com/eJXfMh0.png" group-title="Украина",Телеканал Репортер Одеса
-http://cdn1.live-tv.od.ua:8081/31chod/31chod-abr/31chod/31chod/playlist.m3u8
 #EXTINF:-1 tvg-name="ТрансМІСІЯ" tvg-logo="https://upload.wikimedia.org/wikipedia/ru/3/31/Trance_poster.jpg" group-title="Украина",ТрансМІСІЯ
 http://tinyurl.com/deoTVoleg/id293/video.m3u8
 #EXTINF:-1 tvg-name="Трофей" tvg-logo="https://i.imgur.com/eJXfMh0.png" group-title="Украина",Трофей
@@ -427,15 +421,33 @@ http://online.nasheradio.ua/NasheRadio
 http://online.nasheradio.ua/NasheRadio_Live
 #EXTINF:-1 tvg-name="Радіо Novaline UA" tvg-logo="https://i.imgur.com/eJXfMh0.png" group-title="Музыка",Радіо Novaline UA
 https://stream.novaline.net.ua/Novaline_320
-#EXTINF:-1 tvg-name="FREEDOM UA HD" tvg-logo="https://i.imgur.com/eJXfMh0.png" group-title="Украина",FREEDOM UA HD
-http://portal.ott.pink/C3UK_UATVRU/index.m3u8?token=927E03BF1A83DF5DE6628CAF78BA2C13
 #EXTINF:-1 tvg-name="Армія TB" tvg-logo="https://i.imgur.com/eJXfMh0.png" group-title="Украина",Армія TB
 https://api-tv.ipnet.ua/api/v1/manifest/2118742632.m3u8
 #EXTINF:-1 tvg-name="Суспільне Перший (T2) (UA)" tvg-logo="http://ottpink.network/picons/suspilne-pershy_165x165.png" group-title="Украина",Суспільне Перший (T2) (UA)
 https://api-tv.ipnet.ua/api/v1/manifest/2118742505.m3u8
+#EXTINF:-1 tvg-name="Настоящее Страшное ТВ" tvg-logo="https://iptvx.one/picons/nst.png" group-title="Кино",Настоящее Страшное ТВ
+http://vod.tuva.ru/nst/index.m3u8
+#EXTINF:-1 tvg-name=".Black" tvg-logo="https://i.imgur.com/Q4A6ci4.png" group-title="Кино+",.Black HD
+http://116.90.120.149:8000/play/a0ac/index.m3u8
+#EXTINF:-1 tvg-name=".Sci-Fi" tvg-logo="https://i.imgur.com/nSSUHcg.png" group-title="Кино+",.Sci-Fi
+http://116.90.120.149:8000/play/a0ao/index.m3u8
+#EXTINF:-1 tvg-name="Discovery Channel HD" tvg-logo="https://raw.githubusercontent.com/Jasmeet181/mediaportal-ru-logos/master/TV/.Light/Discovery.png" group-title="Кино+",Discovery Channel HD
+https://stream8.cinerama.uz/1039/index.m3u8
+#EXTINF:-1 tvg-name="Channel 11 (Израиль)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Kan11Logo.svg/960px-Kan11Logo.svg.png" group-title="Кино+",Channel 11 (Израиль)
+https://kancdn.medonecdn.net/livehls/oil/kancdn-live/live/kan11/live.livx/playlist.m3u8
+#EXTINF:-1 tvg-name="Музвар" tvg-logo="https://i.imgur.com/Klu5k9U.png" group-title="Музыка",Музвар
+https://cdn15.live-tv.cloud/ua_infinitas_tv/muzvar-abr/playlist.m3u8
 
 ### НЕ РАБОТАЮТ (СОХРАНЕНЫ ДЛЯ ВОЗМОЖНОГО ОБНОВЛЕНИЯ СЕРВЕРОВ) ###
 
+#EXTINF:-1 tvg-name="1+1 Україна" tvg-logo="https://i.imgur.com/eJXfMh0.png" group-title="[Не работает]",1+1 Україна
+http://portal.ott.pink/C5UK_1plus1SD/index.m3u8?token=927E03BF1A83DF5DE6628CAF78BA2C13
+#EXTINF:-1 tvg-name="Аверс ТВ" tvg-logo="https://i.imgur.com/eJXfMh0.png" group-title="[Не работает]",Аверс ТВ
+http://portal.ott.pink/C5UK_AversUA/index.m3u8?token=927E03BF1A83DF5DE6628CAF78BA2C13
+#EXTINF:-1 tvg-name="FREEDOM UA HD" tvg-logo="https://i.imgur.com/eJXfMh0.png" group-title="[Не работает]",FREEDOM UA HD
+http://portal.ott.pink/C3UK_UATVRU/index.m3u8?token=927E03BF1A83DF5DE6628CAF78BA2C13
+#EXTINF:-1 tvg-name="Телеканал Репортер Одеса" tvg-logo="https://i.imgur.com/eJXfMh0.png" group-title="[Не работает]",Телеканал Репортер Одеса
+http://cdn1.live-tv.od.ua:8081/31chod/31chod-abr/31chod/31chod/playlist.m3u8
 #EXTINF:-1 tvg-name="1+1 Україна (UA)" tvg-logo="https://i.imgur.com/eJXfMh0.png" group-title="[Не работает]",1+1 Україна (UA)
 http://portal.ott.pink/C5UK_1plus1SD/index.m3u8?token=2B8378CADCB27AA393170BD7EDB7C0E9
 #EXTINF:-1 tvg-name="CINEMAN" tvg-logo="https://iptvx.one/picons/cineman.png" group-title="[Не работает]",CINEMAN
@@ -464,8 +476,6 @@ http://stream.mcquack.net/75/tracks-v1a1/mono.ts.m3u8
 http://stream.mcquack.net/456/index.m3u8
 #EXTINF:-1 tvg-name="Блокбастер HD" tvg-logo="https://iptvx.one/picons/blokbaster.png" group-title="[Не работает]",Блокбастер HD
 http://stream.mcquack.net/364/index.m3u8
-#EXTINF:-1 tvg-name="Настоящее Страшное ТВ" tvg-logo="https://iptvx.one/picons/nst.png" group-title="[Не работает]",Настоящее Страшное ТВ
-http://stream.mcquack.net/352/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="ostrosyuzhetnoe_hd" tvg-name="Остросюжетное HD" tvg-logo="https://raw.githubusercontent.com/Jasmeet181/mediaportal-ru-logos/master/TV/.Light/Ostrosyuzhetnoe.png" group-title="[Не работает]",Остросюжетное HD
 http://stream.mcquack.net/214/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-name="Fresh Romantic HD" tvg-logo="https://iptvx.one/picons/fresh-romantic.png" group-title="[Не работает]",Fresh Romantic HD
@@ -476,20 +486,8 @@ http://stream.mcquack.net/447/tracks-v1a1/mono.ts.m3u8
 http://stream.mcquack.net/137/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-name="Хит HD" tvg-logo="https://raw.githubusercontent.com/Jasmeet181/mediaportal-ru-logos/master/TV/.Light/Hit.png" group-title="[Не работает]",Хит HD
 http://stream.mcquack.net/363/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-name=".Black" tvg-logo="https://raw.githubusercontent.com/Jasmeet181/mediaportal-ru-logos/master/TV/.Light/Cinema.png" group-title="[Не работает]",.Black
-http://stream.mcquack.net/283/index.m3u8
-#EXTINF:-1 tvg-name=".Sci-Fi" tvg-logo="https://raw.githubusercontent.com/Jasmeet181/mediaportal-ru-logos/master/TV/.Light/Cinema.png" group-title="[Не работает]",.Sci-Fi
-http://stream.mcquack.net/180/index.m3u8
 #EXTINF:-1 tvg-name="Bolt" tvg-logo="https://raw.githubusercontent.com/Jasmeet181/mediaportal-ru-logos/master/TV/.Light/Cinema.png" group-title="[Не работает]",Bolt HD
 http://stream.mcquack.net/73/index.m3u8
-#EXTINF:-1 tvg-name="Channel 11 (Израиль)" tvg-logo="https://raw.githubusercontent.com/Jasmeet181/mediaportal-ru-logos/master/TV/.Light/Cinema.png" group-title="[Не работает]",Channel 11 (Израиль)
-http://stream.mcquack.net/293/index.m3u8
-#EXTINF:-1 tvg-name="Discovery" tvg-logo="https://raw.githubusercontent.com/Jasmeet181/mediaportal-ru-logos/master/TV/.Light/Discovery.png" group-title="[Не работает]",Discovery
-http://stream.mcquack.net/177/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-name="DISCOVERY CHANEL HD" tvg-logo="https://raw.githubusercontent.com/Jasmeet181/mediaportal-ru-logos/master/TV/.Light/Discovery.png" group-title="[Не работает]",DISCOVERY CHANEL HD
-http://stream.mcquack.net/177/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-name="Discovery Channel HD" tvg-logo="https://raw.githubusercontent.com/Jasmeet181/mediaportal-ru-logos/master/TV/.Light/Discovery.png" group-title="[Не работает]",Discovery Channel HD
-http://stream.mcquack.net/177/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-name="Investigation Discovery" tvg-logo="https://raw.githubusercontent.com/Jasmeet181/mediaportal-ru-logos/master/TV/.Light/Discovery.png" group-title="[Не работает]",Investigation Discovery
 http://stream.mcquack.net/205/index.m3u8
 #EXTINF:-1 tvg-name="Kentron (Армения)" tvg-logo="https://raw.githubusercontent.com/Jasmeet181/mediaportal-ru-logos/master/TV/.Light/Cinema.png" group-title="[Не работает]",Kentron (Армения)
@@ -522,5 +520,3 @@ http://stream.mcquack.net/210/index.m3u8
 http://stream.mcquack.net/329/index.m3u8
 #EXTINF:-1 tvg-name="Перший Автомобільний" tvg-logo="https://i.imgur.com/eJXfMh0.png" group-title="[Не работает]",Перший Автомобільний
 http://stream.mcquack.net/404/index.m3u8
-#EXTINF:-1 tvg-name="Музвар" tvg-logo="https://i.imgur.com/eJXfMh0.png" group-title="[Не работает]",Музвар
-http://stream.mcquack.net/467/tracks-v1a1/mono.ts.m3u8
